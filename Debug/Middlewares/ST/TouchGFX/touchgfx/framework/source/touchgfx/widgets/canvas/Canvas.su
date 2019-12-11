@@ -1,0 +1,9 @@
+Canvas.cpp:20:1:touchgfx::Canvas::Canvas(const touchgfx::CanvasWidget*, const touchgfx::Rect&)	72	static
+Canvas.cpp:203:9:uint8_t touchgfx::Canvas::isOutside(const touchgfx::CWRUtil::Q5&, const touchgfx::CWRUtil::Q5&, const touchgfx::CWRUtil::Q5&, const touchgfx::CWRUtil::Q5&) const	0	static
+Canvas.cpp:227:6:void touchgfx::Canvas::transformFrameBufferToDisplay(touchgfx::CWRUtil::Q5&, touchgfx::CWRUtil::Q5&) const	4	static
+Canvas.cpp:123:6:void touchgfx::Canvas::lineTo(touchgfx::CWRUtil::Q5, touchgfx::CWRUtil::Q5)	40	static
+Canvas.cpp:241:6:void touchgfx::Canvas::close()	8	static
+Canvas.cpp:85:6:void touchgfx::Canvas::moveTo(touchgfx::CWRUtil::Q5, touchgfx::CWRUtil::Q5)	40	static
+Canvas.cpp:169:6:bool touchgfx::Canvas::render()	112	static
+Canvas.cpp:80:1:touchgfx::Canvas::~Canvas()	16	static
+Canvas.cpp:80:1:virtual touchgfx::Canvas::~Canvas()	8	static

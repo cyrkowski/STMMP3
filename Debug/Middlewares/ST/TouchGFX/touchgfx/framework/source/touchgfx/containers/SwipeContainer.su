@@ -1,0 +1,41 @@
+Drawable.hpp:249:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	16	static
+Drawable.hpp:323:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+Drawable.hpp:339:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+Drawable.hpp:356:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+Drawable.hpp:373:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+Drawable.hpp:389:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+Drawable.hpp:404:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+Drawable.hpp:416:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+Drawable.hpp:428:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+Drawable.hpp:440:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+Drawable.hpp:453:18:virtual void touchgfx::Drawable::handleTickEvent()	0	static
+Drawable.hpp:564:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	16	static
+Container.hpp:202:22:virtual uint16_t touchgfx::Container::getType() const	0	static
+SwipeContainer.cpp:100:6:virtual void touchgfx::SwipeContainer::setSwipeCutoff(uint16_t)	0	static
+SwipeContainer.cpp:147:6:virtual void touchgfx::SwipeContainer::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+SwipeContainer.cpp:211:6:virtual void touchgfx::SwipeContainer::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+SwipeContainer.cpp:344:1:touchgfx::SwipeContainer::PageIndicator::~PageIndicator()	0	static
+SwipeContainer.cpp:344:1:virtual touchgfx::SwipeContainer::PageIndicator::~PageIndicator()	8	static
+SwipeContainer.cpp:43:1:touchgfx::SwipeContainer::~SwipeContainer()	8	static
+SwipeContainer.cpp:43:1:virtual touchgfx::SwipeContainer::~SwipeContainer()	8	static
+SwipeContainer.cpp:95:6:void touchgfx::SwipeContainer::setEndSwipeElasticWidth(uint16_t)	0	static
+SwipeContainer.cpp:110:6:void touchgfx::SwipeContainer::setPageIndicatorXY(int16_t, int16_t)	16	static
+SwipeContainer.cpp:115:6:void touchgfx::SwipeContainer::setPageIndicatorXYWithCenteredX(int16_t, int16_t)	16	static
+SwipeContainer.cpp:236:6:void touchgfx::SwipeContainer::adjustPages()	8	static
+SwipeContainer.cpp:187:6:virtual void touchgfx::SwipeContainer::handleDragEvent(const touchgfx::DragEvent&)	8	static
+SwipeContainer.cpp:241:6:void touchgfx::SwipeContainer::animateSwipeCancelledLeft()	8	static
+SwipeContainer.cpp:263:6:void touchgfx::SwipeContainer::animateSwipeCancelledRight()	8	static
+SwipeContainer.cpp:333:1:touchgfx::SwipeContainer::PageIndicator::PageIndicator()	40	static
+SwipeContainer.cpp:21:1:touchgfx::SwipeContainer::SwipeContainer()	24	static
+SwipeContainer.cpp:390:6:void touchgfx::SwipeContainer::PageIndicator::setHighlightPosition(uint8_t)	24	static
+SwipeContainer.cpp:120:6:void touchgfx::SwipeContainer::setSelectedPage(uint8_t)	8	static
+SwipeContainer.cpp:348:6:void touchgfx::SwipeContainer::PageIndicator::setNumberOfPages(uint8_t)	24	static
+SwipeContainer.cpp:48:6:virtual void touchgfx::SwipeContainer::add(touchgfx::Drawable&)	16	static
+SwipeContainer.cpp:59:6:virtual void touchgfx::SwipeContainer::remove(touchgfx::Drawable&)	8	static
+SwipeContainer.cpp:370:6:void touchgfx::SwipeContainer::PageIndicator::setBitmaps(const touchgfx::Bitmap&, const touchgfx::Bitmap&)	16	static
+SwipeContainer.cpp:105:6:void touchgfx::SwipeContainer::setPageIndicatorBitmaps(const touchgfx::Bitmap&, const touchgfx::Bitmap&)	8	static
+SwipeContainer.cpp:380:6:void touchgfx::SwipeContainer::PageIndicator::goRight()	8	static
+SwipeContainer.cpp:285:6:void touchgfx::SwipeContainer::animateLeft()	8	static
+SwipeContainer.cpp:385:6:void touchgfx::SwipeContainer::PageIndicator::goLeft()	8	static
+SwipeContainer.cpp:309:6:void touchgfx::SwipeContainer::animateRight()	8	static
+SwipeContainer.cpp:127:6:virtual void touchgfx::SwipeContainer::handleTickEvent()	8	static

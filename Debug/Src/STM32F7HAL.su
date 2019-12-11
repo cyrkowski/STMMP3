@@ -1,0 +1,20 @@
+HAL.hpp:128:18:virtual void touchgfx::HAL::setDisplayOrientation(touchgfx::DisplayOrientation)	0	static
+HAL.hpp:382:28:virtual touchgfx::BlitOperations touchgfx::HAL::getBlitCaps()	8	static
+HAL.hpp:679:18:virtual bool touchgfx::HAL::sampleKey(uint8_t&)	0	static
+HAL.hpp:1084:18:virtual void touchgfx::HAL::taskDelay(uint16_t)	8	static
+HAL.hpp:1205:18:virtual void touchgfx::HAL::performDisplayOrientationChange()	4	static
+STM32F7HAL.cpp:18:11:virtual uint16_t* STM32F7HAL::getTFTFrameBuffer() const	0	static
+STM32F7HAL.cpp:23:6:virtual void STM32F7HAL::setTFTFrameBuffer(uint16_t*)	0	static
+STM32F7HAL.cpp:31:10:virtual uint16_t STM32F7HAL::getTFTCurrentLine()	0	static
+STM32F7HAL.cpp:52:6:virtual void STM32F7HAL::configureInterrupts()	0	static
+STM32F7HAL.cpp:72:6:virtual void STM32F7HAL::disableInterrupts()	0	static,ignoring_inline_asm
+STM32F7HAL.cpp:79:6:virtual void STM32F7HAL::enableInterrupts()	0	static
+STM32F7HAL.hpp:17:7:STM32F7HAL::~STM32F7HAL()	0	static
+STM32F7HAL.cpp:63:6:virtual void STM32F7HAL::enableLCDControllerInterrupt()	8	static
+STM32F7HAL.cpp:86:6:virtual void STM32F7HAL::flushFrameBuffer(const touchgfx::Rect&)	8	static
+HAL.hpp:623:18:virtual void touchgfx::HAL::backPorchExited()	8	static
+HAL.hpp:778:18:virtual void touchgfx::HAL::setFrameBufferStartAddresses(void*, void*, void*)	8	static
+HAL.hpp:723:18:virtual void touchgfx::HAL::setFrameBufferStartAddress(void*, uint16_t, bool, bool)	16	static
+STM32F7HAL.hpp:82:18:virtual void STM32F7HAL::flushFrameBuffer()	8	static
+STM32F7HAL.hpp:17:7:virtual STM32F7HAL::~STM32F7HAL()	8	static
+STM32F7HAL.cpp:96:6:void HAL_LTDC_LineEventCallback(LTDC_HandleTypeDef*)	8	static

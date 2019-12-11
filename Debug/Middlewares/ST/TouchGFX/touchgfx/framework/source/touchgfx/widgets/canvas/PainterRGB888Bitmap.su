@@ -1,0 +1,9 @@
+PainterRGB888Bitmap.cpp:210:6:virtual bool touchgfx::PainterRGB888Bitmap::renderNext(uint8_t&, uint8_t&, uint8_t&, uint8_t&)	12	static
+PainterRGB888Bitmap.cpp:44:6:virtual void touchgfx::PainterRGB888Bitmap::render(uint8_t*, int, int, int, unsigned int, const uint8_t*)	32	static
+PainterRGB888Bitmap.cpp:173:6:virtual bool touchgfx::PainterRGB888Bitmap::renderInit()	16	static
+PainterRGB888Bitmap.hpp:38:7:touchgfx::PainterRGB888Bitmap::~PainterRGB888Bitmap()	8	static
+PainterRGB888Bitmap.hpp:38:7:virtual touchgfx::PainterRGB888Bitmap::~PainterRGB888Bitmap()	8	static
+PainterRGB888Bitmap.cpp:27:6:void touchgfx::PainterRGB888Bitmap::setBitmap(const touchgfx::Bitmap&)	24	static
+PainterRGB888Bitmap.cpp:34:6:void touchgfx::PainterRGB888Bitmap::setAlpha(uint8_t)	0	static
+PainterRGB888Bitmap.cpp:20:1:touchgfx::PainterRGB888Bitmap::PainterRGB888Bitmap(const touchgfx::Bitmap&, uint8_t)	16	static
+PainterRGB888Bitmap.cpp:39:9:uint8_t touchgfx::PainterRGB888Bitmap::getAlpha() const	0	static

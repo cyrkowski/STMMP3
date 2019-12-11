@@ -1,0 +1,10 @@
+AbstractPainterGRAY2.hpp:59:18:virtual bool touchgfx::AbstractPainterGRAY2::renderInit()	0	static
+PainterGRAY2.cpp:49:6:virtual void touchgfx::PainterGRAY2::render(uint8_t*, int, int, int, unsigned int, const uint8_t*)	28	static
+PainterGRAY2.cpp:98:6:virtual bool touchgfx::PainterGRAY2::renderNext(uint8_t&, uint8_t&)	0	static
+PainterGRAY2.hpp:35:7:touchgfx::PainterGRAY2::~PainterGRAY2()	8	static
+PainterGRAY2.hpp:35:7:virtual touchgfx::PainterGRAY2::~PainterGRAY2()	8	static
+PainterGRAY2.cpp:28:6:void touchgfx::PainterGRAY2::setColor(touchgfx::colortype, uint8_t)	0	static
+PainterGRAY2.cpp:22:1:touchgfx::PainterGRAY2::PainterGRAY2(touchgfx::colortype, uint8_t)	16	static
+PainterGRAY2.cpp:34:21:touchgfx::colortype touchgfx::PainterGRAY2::getColor() const	0	static
+PainterGRAY2.cpp:39:6:void touchgfx::PainterGRAY2::setAlpha(uint8_t)	0	static
+PainterGRAY2.cpp:44:9:uint8_t touchgfx::PainterGRAY2::getAlpha() const	0	static

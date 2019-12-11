@@ -1,0 +1,10 @@
+AbstractPainterRGB888.hpp:59:18:virtual bool touchgfx::AbstractPainterRGB888::renderInit()	0	static
+PainterRGB888.cpp:50:6:virtual void touchgfx::PainterRGB888::render(uint8_t*, int, int, int, unsigned int, const uint8_t*)	16	static
+PainterRGB888.cpp:94:6:virtual bool touchgfx::PainterRGB888::renderNext(uint8_t&, uint8_t&, uint8_t&, uint8_t&)	4	static
+PainterRGB888.hpp:35:7:touchgfx::PainterRGB888::~PainterRGB888()	8	static
+PainterRGB888.hpp:35:7:virtual touchgfx::PainterRGB888::~PainterRGB888()	8	static
+PainterRGB888.cpp:27:6:void touchgfx::PainterRGB888::setColor(touchgfx::colortype, uint8_t)	16	static
+PainterRGB888.cpp:21:1:touchgfx::PainterRGB888::PainterRGB888(touchgfx::colortype, uint8_t)	16	static
+PainterRGB888.cpp:35:21:touchgfx::colortype touchgfx::PainterRGB888::getColor() const	8	static
+PainterRGB888.cpp:40:6:void touchgfx::PainterRGB888::setAlpha(uint8_t)	0	static
+PainterRGB888.cpp:45:9:uint8_t touchgfx::PainterRGB888::getAlpha() const	0	static

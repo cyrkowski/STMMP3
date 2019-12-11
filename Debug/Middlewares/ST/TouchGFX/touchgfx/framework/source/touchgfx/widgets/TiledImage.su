@@ -1,0 +1,26 @@
+Drawable.hpp:249:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	16	static
+Drawable.hpp:323:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+Drawable.hpp:339:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+Drawable.hpp:356:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+Drawable.hpp:373:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+Drawable.hpp:389:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+Drawable.hpp:404:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+Drawable.hpp:416:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+Drawable.hpp:428:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+Drawable.hpp:440:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+Drawable.hpp:453:18:virtual void touchgfx::Drawable::handleTickEvent()	0	static
+Drawable.hpp:564:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	16	static
+Drawable.hpp:737:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	0	static
+Widget.hpp:74:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	0	static
+TiledImage.hpp:185:22:virtual uint16_t touchgfx::TiledImage::getType() const	0	static
+TiledImage.cpp:27:6:virtual void touchgfx::TiledImage::setOffset(int16_t, int16_t)	16	static
+TiledImage.cpp:51:6:virtual void touchgfx::TiledImage::getOffset(int16_t&, int16_t&)	16	static
+TiledImage.cpp:57:9:virtual int16_t touchgfx::TiledImage::getXOffset()	0	static
+TiledImage.cpp:62:9:virtual int16_t touchgfx::TiledImage::getYOffset()	0	static
+TiledImage.hpp:39:7:touchgfx::TiledImage::~TiledImage()	0	static
+TiledImage.cpp:20:6:virtual void touchgfx::TiledImage::setBitmap(const touchgfx::Bitmap&)	8	static
+TiledImage.cpp:33:6:virtual void touchgfx::TiledImage::setXOffset(int16_t)	24	static
+TiledImage.cpp:42:6:virtual void touchgfx::TiledImage::setYOffset(int16_t)	24	static
+TiledImage.cpp:67:6:virtual void touchgfx::TiledImage::draw(const touchgfx::Rect&) const	104	static
+TiledImage.cpp:96:6:virtual touchgfx::Rect touchgfx::TiledImage::getSolidRect() const	48	static
+TiledImage.hpp:39:7:virtual touchgfx::TiledImage::~TiledImage()	8	static

@@ -1,0 +1,20 @@
+Drawable.hpp:249:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	16	static
+Drawable.hpp:323:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+Drawable.hpp:339:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+Drawable.hpp:356:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+Drawable.hpp:373:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+Drawable.hpp:389:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+Drawable.hpp:404:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+Drawable.hpp:428:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+Drawable.hpp:440:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+Drawable.hpp:453:18:virtual void touchgfx::Drawable::handleTickEvent()	0	static
+Drawable.hpp:564:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	16	static
+Drawable.hpp:737:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	0	static
+Widget.hpp:74:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	0	static
+AbstractButton.hpp:95:18:virtual bool touchgfx::AbstractButton::getPressedState() const	0	static
+ButtonWithLabel.hpp:178:22:virtual uint16_t touchgfx::ButtonWithLabel::getType() const	0	static
+ButtonWithLabel.hpp:33:7:touchgfx::ButtonWithLabel::~ButtonWithLabel()	0	static
+ButtonWithLabel.hpp:162:18:virtual touchgfx::Rect touchgfx::ButtonWithLabel::getSolidRect() const	8	static
+ButtonWithLabel.hpp:33:7:virtual touchgfx::ButtonWithLabel::~ButtonWithLabel()	8	static
+ButtonWithLabel.cpp:26:6:virtual void touchgfx::ButtonWithLabel::draw(const touchgfx::Rect&) const	96	static
+ButtonWithLabel.cpp:21:1:touchgfx::ButtonWithLabel::ButtonWithLabel()	4	static

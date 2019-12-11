@@ -1,0 +1,13 @@
+DMA.hpp:246:18:virtual void touchgfx::DMA_Interface::flush()	8	static
+STM32F7DMA.hpp:80:18:virtual void STM32F7DMA::signalDMAInterrupt()	8	static
+STM32F7DMA.cpp:16:26:HAL_StatusTypeDef HAL_DMA2D_SetMode(DMA2D_HandleTypeDef*, uint32_t, uint32_t, uint32_t)	8	static
+STM32F7DMA.cpp:29:13:void DMA2D_XferCpltCallback(DMA2D_HandleTypeDef*)	8	static
+STM32F7DMA.cpp:34:13:void DMA2D_XferErrorCallback(DMA2D_HandleTypeDef*)	0	static
+STM32F7DMA.cpp:64:16:virtual touchgfx::BlitOperations STM32F7DMA::getBlitCaps()	0	static
+STM32F7DMA.cpp:248:6:virtual void STM32F7DMA::start()	8	static
+STM32F7DMA.cpp:45:1:STM32F7DMA::~STM32F7DMA()	8	static,ignoring_inline_asm
+STM32F7DMA.cpp:45:1:virtual STM32F7DMA::~STM32F7DMA()	8	static
+STM32F7DMA.cpp:51:6:virtual void STM32F7DMA::initialize()	8	static
+STM32F7DMA.cpp:83:6:virtual void STM32F7DMA::setupDataCopy(const touchgfx::BlitOp&)	40	static
+STM32F7DMA.cpp:184:6:virtual void STM32F7DMA::setupDataFill(const touchgfx::BlitOp&)	32	static
+STM32F7DMA.cpp:41:1:STM32F7DMA::STM32F7DMA()	16	static

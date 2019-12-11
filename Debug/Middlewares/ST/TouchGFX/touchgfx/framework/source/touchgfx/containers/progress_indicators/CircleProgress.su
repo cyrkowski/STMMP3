@@ -1,0 +1,32 @@
+Drawable.hpp:249:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	16	static
+Drawable.hpp:323:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+Drawable.hpp:339:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+Drawable.hpp:356:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+Drawable.hpp:373:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+Drawable.hpp:389:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+Drawable.hpp:404:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+Drawable.hpp:416:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+Drawable.hpp:428:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+Drawable.hpp:440:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+Drawable.hpp:453:18:virtual void touchgfx::Drawable::handleTickEvent()	0	static
+Drawable.hpp:564:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	16	static
+Container.hpp:202:22:virtual uint16_t touchgfx::Container::getType() const	0	static
+CircleProgress.cpp:44:6:virtual void touchgfx::CircleProgress::setCenter(int, int)	0	static
+CircleProgress.cpp:49:6:virtual void touchgfx::CircleProgress::getCenter(int&, int&) const	0	static
+CircleProgress.cpp:54:6:virtual void touchgfx::CircleProgress::setRadius(int)	0	static
+CircleProgress.cpp:59:5:virtual int touchgfx::CircleProgress::getRadius() const	0	static
+CircleProgress.cpp:66:6:virtual void touchgfx::CircleProgress::setLineWidth(int)	0	static
+CircleProgress.cpp:71:5:virtual int touchgfx::CircleProgress::getLineWidth() const	0	static
+CircleProgress.cpp:90:5:virtual int touchgfx::CircleProgress::getStartAngle() const	0	static
+CircleProgress.cpp:95:5:virtual int touchgfx::CircleProgress::getEndAngle() const	0	static
+CircleProgress.cpp:100:6:virtual void touchgfx::CircleProgress::setAlpha(uint8_t)	0	static
+CircleProgress.cpp:105:9:virtual uint8_t touchgfx::CircleProgress::getAlpha() const	0	static
+CircleProgress.cpp:28:1:touchgfx::CircleProgress::~CircleProgress()	8	static
+CircleProgress.cpp:39:6:virtual void touchgfx::CircleProgress::setPainter(touchgfx::AbstractPainter&)	8	static
+CircleProgress.cpp:28:1:virtual touchgfx::CircleProgress::~CircleProgress()	8	static
+CircleProgress.cpp:78:6:virtual void touchgfx::CircleProgress::setCapPrecision(int)	8	static
+CircleProgress.cpp:83:6:virtual void touchgfx::CircleProgress::setStartEndAngle(int, int)	8	static
+CircleProgress.hpp:184:17:virtual int touchgfx::CircleProgress::getCapPrecision() const	8	static
+CircleProgress.cpp:20:1:touchgfx::CircleProgress::CircleProgress()	24	static
+CircleProgress.cpp:32:6:virtual void touchgfx::CircleProgress::setProgressIndicatorPosition(int16_t, int16_t, int16_t, int16_t)	40	static
+CircleProgress.cpp:110:6:virtual void touchgfx::CircleProgress::setValue(int)	32	static

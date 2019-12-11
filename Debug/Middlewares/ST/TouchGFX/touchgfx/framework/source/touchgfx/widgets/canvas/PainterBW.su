@@ -1,0 +1,8 @@
+AbstractPainterBW.hpp:58:18:virtual bool touchgfx::AbstractPainterBW::renderInit()	0	static
+PainterBW.cpp:35:6:virtual void touchgfx::PainterBW::render(uint8_t*, int, int, int, unsigned int, const uint8_t*)	12	static
+PainterBW.cpp:64:6:virtual bool touchgfx::PainterBW::renderNext(uint8_t&)	0	static
+PainterBW.hpp:34:7:touchgfx::PainterBW::~PainterBW()	8	static
+PainterBW.hpp:34:7:virtual touchgfx::PainterBW::~PainterBW()	8	static
+PainterBW.cpp:20:10:static unsigned int touchgfx::PainterBW::bw(unsigned int, unsigned int, unsigned int)	0	static
+PainterBW.cpp:25:6:void touchgfx::PainterBW::setColor(touchgfx::colortype)	0	static
+PainterBW.cpp:30:21:touchgfx::colortype touchgfx::PainterBW::getColor() const	0	static

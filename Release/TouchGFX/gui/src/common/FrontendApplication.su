@@ -1,0 +1,8 @@
+Application.hpp:97:18:virtual void touchgfx::Application::appSwitchScreen(uint8_t)	0	static
+FrontendApplication.hpp:14:13:FrontendApplication::~FrontendApplication()	0	static
+Callback.hpp:595:18:void touchgfx::Callback<dest_type, void, void, void>::execute() [with dest_type = FrontendApplicationBase]	4	static
+Callback.hpp:609:18:bool touchgfx::Callback<dest_type, void, void, void>::isValid() const [with dest_type = FrontendApplicationBase]	0	static
+FrontendApplication.hpp:14:13:virtual FrontendApplication::~FrontendApplication()	8	static
+FrontendApplication.hpp:16:18:virtual void FrontendApplication::handleTickEvent()	8	static
+MVPApplication.hpp:79:18:virtual void touchgfx::MVPApplication::handlePendingScreenTransition()	16	static
+FrontendApplication.cpp:3:1:FrontendApplication::FrontendApplication(Model&, FrontendHeap&)	8	static

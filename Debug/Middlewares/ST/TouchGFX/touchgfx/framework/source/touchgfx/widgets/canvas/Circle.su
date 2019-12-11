@@ -1,0 +1,39 @@
+Drawable.hpp:249:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	16	static
+Drawable.hpp:323:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+Drawable.hpp:339:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+Drawable.hpp:356:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+Drawable.hpp:373:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+Drawable.hpp:389:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+Drawable.hpp:404:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+Drawable.hpp:416:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+Drawable.hpp:428:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+Drawable.hpp:440:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+Drawable.hpp:453:18:virtual void touchgfx::Drawable::handleTickEvent()	0	static
+Drawable.hpp:564:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	16	static
+Drawable.hpp:737:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	0	static
+Widget.hpp:74:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	0	static
+Widget.hpp:91:22:virtual uint16_t touchgfx::Widget::getType() const	0	static
+CanvasWidget.hpp:97:18:virtual void touchgfx::CanvasWidget::setAlpha(uint8_t)	0	static
+CanvasWidget.hpp:111:21:virtual uint8_t touchgfx::CanvasWidget::getAlpha() const	0	static
+Circle.hpp:41:7:touchgfx::Circle::~Circle()	8	static
+Circle.hpp:41:7:virtual touchgfx::Circle::~Circle()	8	static
+Circle.cpp:20:1:touchgfx::Circle::Circle()	8	static
+Circle.cpp:30:6:void touchgfx::Circle::setPrecision(int)	0	static
+Circle.cpp:43:5:int touchgfx::Circle::getPrecision() const	0	static
+Circle.cpp:48:6:void touchgfx::Circle::setCapPrecision(int)	0	static
+Circle.cpp:61:5:int touchgfx::Circle::getCapPrecision() const	0	static
+Circle.cpp:218:6:void touchgfx::Circle::moveToAR2(touchgfx::Canvas&, const touchgfx::CWRUtil::Q5&, const touchgfx::CWRUtil::Q5&) const	40	static
+Circle.cpp:228:6:void touchgfx::Circle::lineToXYAR2(touchgfx::Canvas&, const touchgfx::CWRUtil::Q5&, const touchgfx::CWRUtil::Q5&, const touchgfx::CWRUtil::Q5&, const touchgfx::CWRUtil::Q5&) const	40	static
+Circle.cpp:223:6:void touchgfx::Circle::lineToAR2(touchgfx::Canvas&, const touchgfx::CWRUtil::Q5&, const touchgfx::CWRUtil::Q5&) const	16	static
+Circle.cpp:240:6:void touchgfx::Circle::updateMinMaxXY(const touchgfx::CWRUtil::Q5&, const touchgfx::CWRUtil::Q5&, touchgfx::CWRUtil::Q5&, touchgfx::CWRUtil::Q5&, touchgfx::CWRUtil::Q5&, touchgfx::CWRUtil::Q5&) const	16	static
+Circle.cpp:233:6:void touchgfx::Circle::updateMinMaxAR(const touchgfx::CWRUtil::Q5&, const touchgfx::CWRUtil::Q5&, touchgfx::CWRUtil::Q5&, touchgfx::CWRUtil::Q5&, touchgfx::CWRUtil::Q5&, touchgfx::CWRUtil::Q5&) const	56	static
+Utils.hpp:129:3:T touchgfx::abs(T) [with T = long int]	0	static
+Utils.hpp:129:3:T touchgfx::abs(T) [with T = touchgfx::CWRUtil::Q5]	0	static
+Circle.cpp:260:6:void touchgfx::Circle::calculateMinimalRect(touchgfx::CWRUtil::Q5, touchgfx::CWRUtil::Q5, touchgfx::CWRUtil::Q5&, touchgfx::CWRUtil::Q5&, touchgfx::CWRUtil::Q5&, touchgfx::CWRUtil::Q5&) const	144	static
+Circle.cpp:207:6:touchgfx::Rect touchgfx::Circle::getMinimalRect(touchgfx::CWRUtil::Q5, touchgfx::CWRUtil::Q5) const	48	static
+Circle.cpp:197:6:virtual touchgfx::Rect touchgfx::Circle::getMinimalRect() const	8	static
+Circle.cpp:202:6:touchgfx::Rect touchgfx::Circle::getMinimalRect(int16_t, int16_t) const	8	static
+Utils.hpp:129:3:T touchgfx::abs(T) [with T = int]	0	static
+Circle.cpp:325:16:touchgfx::Rect touchgfx::Circle::getMinimalRectForUpdatedStartAngle(touchgfx::CWRUtil::Q5&)	32	static
+Circle.cpp:381:16:touchgfx::Rect touchgfx::Circle::getMinimalRectForUpdatedEndAngle(touchgfx::CWRUtil::Q5&)	32	static
+Circle.cpp:66:6:virtual bool touchgfx::Circle::drawCanvasWidget(const touchgfx::Rect&) const	296	static

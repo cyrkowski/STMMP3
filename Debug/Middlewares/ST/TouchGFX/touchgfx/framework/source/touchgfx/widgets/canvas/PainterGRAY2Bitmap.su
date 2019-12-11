@@ -1,0 +1,9 @@
+PainterGRAY2Bitmap.cpp:45:6:virtual void touchgfx::PainterGRAY2Bitmap::render(uint8_t*, int, int, int, unsigned int, const uint8_t*)	32	static
+PainterGRAY2Bitmap.cpp:174:6:virtual bool touchgfx::PainterGRAY2Bitmap::renderNext(uint8_t&, uint8_t&)	8	static
+PainterGRAY2Bitmap.cpp:146:6:virtual bool touchgfx::PainterGRAY2Bitmap::renderInit()	16	static
+PainterGRAY2Bitmap.hpp:38:7:touchgfx::PainterGRAY2Bitmap::~PainterGRAY2Bitmap()	8	static
+PainterGRAY2Bitmap.hpp:38:7:virtual touchgfx::PainterGRAY2Bitmap::~PainterGRAY2Bitmap()	8	static
+PainterGRAY2Bitmap.cpp:28:6:void touchgfx::PainterGRAY2Bitmap::setBitmap(const touchgfx::Bitmap&)	24	static
+PainterGRAY2Bitmap.cpp:35:6:void touchgfx::PainterGRAY2Bitmap::setAlpha(uint8_t)	0	static
+PainterGRAY2Bitmap.cpp:21:1:touchgfx::PainterGRAY2Bitmap::PainterGRAY2Bitmap(const touchgfx::Bitmap&, uint8_t)	16	static
+PainterGRAY2Bitmap.cpp:40:9:uint8_t touchgfx::PainterGRAY2Bitmap::getAlpha() const	0	static

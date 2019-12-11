@@ -1,0 +1,22 @@
+Drawable.hpp:249:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	16	static
+Drawable.hpp:323:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+Drawable.hpp:339:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+Drawable.hpp:356:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+Drawable.hpp:373:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+Drawable.hpp:389:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+Drawable.hpp:404:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+Drawable.hpp:416:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+Drawable.hpp:428:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+Drawable.hpp:440:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+Drawable.hpp:453:18:virtual void touchgfx::Drawable::handleTickEvent()	0	static
+Drawable.hpp:564:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	16	static
+Drawable.hpp:737:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	0	static
+Widget.hpp:74:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	0	static
+SnapshotWidget.hpp:144:22:virtual uint16_t touchgfx::SnapshotWidget::getType() const	0	static
+SnapshotWidget.cpp:24:1:touchgfx::SnapshotWidget::~SnapshotWidget()	0	static
+SnapshotWidget.cpp:28:6:virtual void touchgfx::SnapshotWidget::draw(const touchgfx::Rect&) const	40	static
+SnapshotWidget.cpp:42:6:virtual touchgfx::Rect touchgfx::SnapshotWidget::getSolidRect() const	4	static
+SnapshotWidget.cpp:59:6:virtual void touchgfx::SnapshotWidget::makeSnapshot()	8	static
+SnapshotWidget.cpp:64:6:virtual void touchgfx::SnapshotWidget::makeSnapshot(touchgfx::BitmapId)	8	static
+SnapshotWidget.cpp:24:1:virtual touchgfx::SnapshotWidget::~SnapshotWidget()	8	static
+SnapshotWidget.cpp:20:1:touchgfx::SnapshotWidget::SnapshotWidget()	0	static
