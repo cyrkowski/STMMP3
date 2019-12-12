@@ -8,20 +8,19 @@ RM := rm -rf
 
 # All of the sources participating in the build are defined here
 -include sources.mk
--include TouchGFX/gui/src/screen2_screen/subdir.mk
--include TouchGFX/gui/src/screen1_screen/subdir.mk
+-include TouchGFX/gui/src/screen3_screen/subdir.mk
 -include TouchGFX/gui/src/model/subdir.mk
 -include TouchGFX/gui/src/common/subdir.mk
 -include TouchGFX/generated/texts/src/subdir.mk
 -include TouchGFX/generated/images/src/__designer/subdir.mk
 -include TouchGFX/generated/images/src/subdir.mk
--include TouchGFX/generated/gui_generated/src/screen2_screen/subdir.mk
--include TouchGFX/generated/gui_generated/src/screen1_screen/subdir.mk
+-include TouchGFX/generated/gui_generated/src/screen3_screen/subdir.mk
 -include TouchGFX/generated/gui_generated/src/common/subdir.mk
 -include TouchGFX/generated/fonts/src/subdir.mk
 -include TouchGFX/build/MINGW32_NT-6.2/touchgfx/framework/source/platform/hal/simulator/sdl2/subdir.mk
 -include TouchGFX/build/MINGW32_NT-6.2/touchgfx/framework/source/platform/driver/touch/subdir.mk
 -include TouchGFX/build/MINGW32_NT-6.2/simulator/subdir.mk
+-include TouchGFX/build/MINGW32_NT-6.2/gui/src/screen3_screen/subdir.mk
 -include TouchGFX/build/MINGW32_NT-6.2/gui/src/screen2_screen/subdir.mk
 -include TouchGFX/build/MINGW32_NT-6.2/gui/src/screen1_screen/subdir.mk
 -include TouchGFX/build/MINGW32_NT-6.2/gui/src/model/subdir.mk
@@ -29,6 +28,7 @@ RM := rm -rf
 -include TouchGFX/build/MINGW32_NT-6.2/generated/texts/src/subdir.mk
 -include TouchGFX/build/MINGW32_NT-6.2/generated/images/src/__designer/subdir.mk
 -include TouchGFX/build/MINGW32_NT-6.2/generated/images/src/subdir.mk
+-include TouchGFX/build/MINGW32_NT-6.2/generated/gui_generated/src/screen3_screen/subdir.mk
 -include TouchGFX/build/MINGW32_NT-6.2/generated/gui_generated/src/screen2_screen/subdir.mk
 -include TouchGFX/build/MINGW32_NT-6.2/generated/gui_generated/src/screen1_screen/subdir.mk
 -include TouchGFX/build/MINGW32_NT-6.2/generated/gui_generated/src/common/subdir.mk
@@ -95,8 +95,8 @@ f746g-disco-test.list \
 all: f746g-disco-test.elf secondary-outputs
 
 # Tool invocations
-f746g-disco-test.elf: $(OBJS) $(USER_OBJS) C:\Users\Michal\Documents\stm\f746g-disco-test\f746g-disco-test\STM32F746NGHX_FLASH.ld
-	arm-none-eabi-g++ -o "f746g-disco-test.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m7 -T"C:\Users\Michal\Documents\stm\f746g-disco-test\f746g-disco-test\STM32F746NGHX_FLASH.ld" --specs=nosys.specs -Wl,-Map="f746g-disco-test.map" -Wl,--gc-sections -static -L"C:\Users\Michal\Documents\stm\f746g-disco-test\f746g-disco-test\Middlewares\ST\TouchGFX\touchgfx\lib\core\cortex_m7\gcc" -L../Middlewares/ST/TouchGFX/touchgfx/lib/core/cortex_m7/gcc --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
+f746g-disco-test.elf: $(OBJS) $(USER_OBJS) C:\Users\Mateusz\Desktop\stm32\STMMP3\STM32F746NGHX_FLASH.ld
+	arm-none-eabi-g++ -o "f746g-disco-test.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m7 -T"C:\Users\Mateusz\Desktop\stm32\STMMP3\STM32F746NGHX_FLASH.ld" --specs=nosys.specs -Wl,-Map="f746g-disco-test.map" -Wl,--gc-sections -static -L"C:\Users\Mateusz\Desktop\stm32\STMMP3\Middlewares\ST\TouchGFX\touchgfx\lib\core\cortex_m7\gcc" -L../Middlewares/ST/TouchGFX/touchgfx/lib/core/cortex_m7/gcc --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

@@ -73,8 +73,8 @@ Src/STM32F7HAL.o: ../Src/STM32F7HAL.cpp \
  ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart_ex.h \
  ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_hcd.h \
  ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_usb.h \
- C:/Users/Mateusz/Desktop/f746g-disco-test/f746g-disco-test/Src/STM32F7HAL.hpp \
- C:/Users/Mateusz/Desktop/f746g-disco-test/f746g-disco-test/Src/STM32F7DMA.hpp
+ C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7HAL.hpp \
+ C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7DMA.hpp
 
 ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/hal/OSWrappers.hpp:
 
@@ -224,6 +224,6 @@ Src/STM32F7HAL.o: ../Src/STM32F7HAL.cpp \
 
 ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_usb.h:
 
-C:/Users/Mateusz/Desktop/f746g-disco-test/f746g-disco-test/Src/STM32F7HAL.hpp:
+C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7HAL.hpp:
 
-C:/Users/Mateusz/Desktop/f746g-disco-test/f746g-disco-test/Src/STM32F7DMA.hpp:
+C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7DMA.hpp:

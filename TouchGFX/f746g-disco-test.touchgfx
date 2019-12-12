@@ -4,18 +4,17 @@
       {
         "Components": [
           {
-            "Color": {
-              "Red": 140,
-              "Green": 20,
-              "Blue": 20
-            },
+            "FileName": "__designer\\blue_textures_grey_wash_wall.png",
             "Alpha": 255,
-            "Name": "box1",
+            "Style": "Texture9",
+            "OffsetX": 0,
+            "OffsetY": 0,
+            "Name": "backgroundImage",
             "X": 0,
             "Y": 0,
-            "Width": 551,
-            "Height": 326,
-            "Type": "Box",
+            "Width": 480,
+            "Height": 272,
+            "Type": "TiledImage",
             "Visible": true,
             "Draggable": false,
             "Clickable": false,
@@ -23,16 +22,176 @@
             "Moveable": false
           },
           {
-            "Pressed": "__designer\\blue_buttons_round_edge_small_pressed.png",
-            "Released": "__designer\\blue_buttons_round_edge_small.png",
+            "Filename": "multimedia-music-music-note-note-icon.png",
             "Alpha": 255,
-            "Style": "Style4",
-            "Name": "button1",
-            "X": 261,
-            "Y": 175,
-            "Width": 170,
+            "ScalingAlgorithm": "Nearest-neighbor",
+            "Name": "coverImage",
+            "X": 54,
+            "Y": 46,
+            "Width": 128,
+            "Height": 128,
+            "Type": "ScalableImage",
+            "Visible": true,
+            "Draggable": false,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "TextId": "SingleUseId1",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 0,
+              "Green": 0,
+              "Blue": 0
+            },
+            "Alpha": 255,
+            "AutoSize": false,
+            "LineSpacing": 0,
+            "Wildcard1": {
+              "TextId": "SingleUseId2",
+              "UseBuffer": true,
+              "BufferSize": 30
+            },
+            "Name": "songName",
+            "X": 225,
+            "Y": 30,
+            "Width": 242,
+            "Height": 32,
+            "Type": "TextArea",
+            "Visible": true,
+            "Draggable": true,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "IsHorizontalSlider": true,
+            "BackgroundUnselected": "__designer\\blue_slider_horizontal_medium_slider_round_back.png",
+            "BackgroundSelected": "__designer\\blue_slider_horizontal_medium_slider_round_fill.png",
+            "Indicator": "__designer\\blue_slider_horizontal_medium_indicators_slider_round_nob.png",
+            "BackgroundX": 2,
+            "BackgroundY": 19,
+            "IndicatorPos": 2,
+            "IndicatorMax": 310,
+            "IndicatorMin": 0,
+            "ValueMax": 100,
+            "ValueMin": 0,
+            "InitValue": 0,
+            "Style": "Style7",
+            "Name": "slider",
+            "X": 61,
+            "Y": 211,
+            "Width": 358,
+            "Height": 52,
+            "Type": "Slider",
+            "Visible": true,
+            "Draggable": true,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "FileNameProgress": "__designer\\blue_progressindicators_fill_large_circle_indicator_fill_line_full.png",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "CenterX": 92,
+            "CenterY": 92,
+            "Radius": 82,
+            "LineWidth": 16,
+            "StartAngle": 0,
+            "EndAngle": 360,
+            "CapPrecision": "Butt",
+            "Alpha": 255,
+            "Style": "Style11",
+            "FileNameBackground": "__designer\\blue_progressindicators_bg_large_circle_indicator_bg_line_full.png",
+            "IndicatorPositionX": 0,
+            "IndicatorPositionY": 0,
+            "IndicatorPositionWidth": 0,
+            "IndicatorPositionHeight": 0,
+            "ProgressRangeMin": 0,
+            "ProgressRangeMax": 100,
+            "ProgressRangeSteps": 0,
+            "ProgressRangeStepsMin": 0,
+            "ProgressInitialValue": 60,
+            "Name": "songProgress",
+            "X": 26,
+            "Y": 18,
+            "Width": 184,
+            "Height": 184,
+            "Type": "CircleProgress",
+            "Visible": true,
+            "Draggable": true,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "__designer\\blue_buttons_square_icon_button_pressed.png",
+            "Released": "__designer\\blue_buttons_square_icon_button.png",
+            "Alpha": 255,
+            "IconPressed": "__designer\\blue_icons_back_arrow_32.png",
+            "IconReleased": "__designer\\blue_icons_back_arrow_32.png",
+            "IconX": 22,
+            "IconY": 15,
+            "IconHeight": 30,
+            "IconWidth": 17,
+            "ButtonStyle": "Style9",
+            "Name": "buttonPrev",
+            "X": 225,
+            "Y": 132,
+            "Width": 60,
             "Height": 60,
-            "Type": "Button",
+            "Type": "ButtonWithIcon",
+            "Visible": true,
+            "Draggable": true,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "__designer\\blue_buttons_square_icon_button_pressed.png",
+            "Released": "__designer\\blue_buttons_square_icon_button.png",
+            "Alpha": 255,
+            "IconPressed": "__designer\\blue_icons_go_next_32.png",
+            "IconReleased": "__designer\\blue_icons_go_next_32.png",
+            "IconX": 15,
+            "IconY": 16,
+            "IconHeight": 28,
+            "IconWidth": 30,
+            "ButtonStyle": "Style9",
+            "Name": "buttonPlay",
+            "X": 300,
+            "Y": 132,
+            "Width": 60,
+            "Height": 60,
+            "Type": "ButtonWithIcon",
+            "Visible": true,
+            "Draggable": true,
+            "Clickable": false,
+            "Fadeable": false,
+            "Moveable": false
+          },
+          {
+            "Pressed": "__designer\\blue_buttons_square_icon_button_pressed.png",
+            "Released": "__designer\\blue_buttons_square_icon_button.png",
+            "Alpha": 255,
+            "IconPressed": "__designer\\blue_icons_next_arrow_32.png",
+            "IconReleased": "__designer\\blue_icons_next_arrow_32.png",
+            "IconX": 22,
+            "IconY": 15,
+            "IconHeight": 30,
+            "IconWidth": 17,
+            "ButtonStyle": "Style9",
+            "Name": "buttonNext",
+            "X": 375,
+            "Y": 132,
+            "Width": 60,
+            "Height": 60,
+            "Type": "ButtonWithIcon",
             "Visible": true,
             "Draggable": false,
             "Clickable": false,
@@ -42,92 +201,77 @@
         ],
         "Interactions": [
           {
-            "InteractionName": "Interaction1",
+            "InteractionName": "songPrevious",
             "HasCompletedTrigger": false,
             "Trigger": {
-              "TriggerComponent": "button1",
+              "TriggerComponent": "buttonPrev",
               "Type": "TriggerClicked"
             },
             "Action": {
-              "ScreenTransitionType": "ScreenTransitionSlide",
-              "ScreenTransitionDirection": "West",
-              "ActionComponent": "Screen2",
-              "Type": "ActionGotoScreen"
+              "FunctionName": "playPrevSong",
+              "Type": "ActionCustom"
             }
-          }
-        ],
-        "Name": "Screen1",
-        "OverrideDefaultBufferSize": false,
-        "CanvasBufferSize": 0
-      },
-      {
-        "Components": [
-          {
-            "Color": {
-              "Red": 65,
-              "Green": 163,
-              "Blue": 28
-            },
-            "Alpha": 255,
-            "Name": "box1",
-            "X": 0,
-            "Y": 0,
-            "Width": 507,
-            "Height": 311,
-            "Type": "Box",
-            "Visible": true,
-            "Draggable": false,
-            "Clickable": false,
-            "Fadeable": false,
-            "Moveable": false
           },
           {
-            "Pressed": "__designer\\blue_buttons_round_edge_small_pressed.png",
-            "Released": "__designer\\blue_buttons_round_edge_small.png",
-            "Alpha": 255,
-            "Style": "Style4",
-            "Name": "button1",
-            "X": 155,
-            "Y": 90,
-            "Width": 170,
-            "Height": 60,
-            "Type": "Button",
-            "Visible": true,
-            "Draggable": false,
-            "Clickable": false,
-            "Fadeable": false,
-            "Moveable": false
-          }
-        ],
-        "Interactions": [
-          {
-            "InteractionName": "Interaction1",
+            "InteractionName": "songNext",
             "HasCompletedTrigger": false,
             "Trigger": {
-              "TriggerComponent": "button1",
+              "TriggerComponent": "buttonNext",
               "Type": "TriggerClicked"
             },
             "Action": {
-              "ScreenTransitionType": "ScreenTransitionSlide",
-              "ScreenTransitionDirection": "East",
-              "ActionComponent": "Screen1",
-              "Type": "ActionGotoScreen"
+              "FunctionName": "playNextSong",
+              "Type": "ActionCustom"
+            }
+          },
+          {
+            "InteractionName": "songPlay",
+            "HasCompletedTrigger": false,
+            "Trigger": {
+              "TriggerComponent": "buttonPlay",
+              "Type": "TriggerClicked"
+            },
+            "Action": {
+              "FunctionName": "playPause",
+              "Type": "ActionCustom"
+            }
+          },
+          {
+            "InteractionName": "progressSliderChanged",
+            "HasCompletedTrigger": true,
+            "Trigger": {
+              "TriggerComponent": "slider",
+              "Type": "TriggerSliderValueConfirmed"
+            },
+            "Action": {
+              "FunctionName": "moveSongPosition",
+              "Type": "ActionCustom"
             }
           }
         ],
-        "Name": "Screen2",
+        "Name": "Screen3",
         "OverrideDefaultBufferSize": false,
-        "CanvasBufferSize": 0
+        "CanvasBufferSize": 7200
       }
     ],
     "CustomContainerDefinitions": [],
+    "TextEntries": [
+      {
+        "TextEntryId": "SingleUseId1",
+        "IsResource": false
+      },
+      {
+        "TextEntryId": "SingleUseId2",
+        "IsResource": false
+      }
+    ],
     "Name": "MyApplication",
     "Resolution": {
       "Width": 480,
       "Height": 272
     },
     "SelectedColorDepth": 16,
-    "StartupScreenName": "Screen1",
+    "StartupScreenName": "Screen3",
     "SelectedStartupLanguage": "GB",
     "Skin": "Blue",
     "TouchGfxPath": "../Middlewares/ST/TouchGFX/touchgfx/",
@@ -148,7 +292,7 @@
       "AvailableResolutions": [],
       "PhysicalButtons": [],
       "GenerateAssetsCommand": "make -f simulator/gcc/Makefile assets -j10",
-      "PostGenerateCommand": "echo test ",
+      "PostGenerateCommand": "echo test",
       "CompileSimulatorCommand": "make -f simulator/gcc/Makefile -j10",
       "RunSimulatorCommand": "build\\bin\\simulator.exe",
       "CompileTargetCommand": "",

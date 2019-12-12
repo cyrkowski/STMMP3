@@ -1,0 +1,45 @@
+Drawable.hpp:249:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	16	static
+Drawable.hpp:323:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+Drawable.hpp:339:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+Drawable.hpp:356:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+Drawable.hpp:373:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+Drawable.hpp:389:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+Drawable.hpp:404:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+Drawable.hpp:416:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+Drawable.hpp:428:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+Drawable.hpp:440:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+Drawable.hpp:453:18:virtual void touchgfx::Drawable::handleTickEvent()	0	static
+Drawable.hpp:564:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	16	static
+Drawable.hpp:737:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	0	static
+Screen.hpp:140:18:virtual void touchgfx::Screen::afterTransition()	0	static
+Screen.hpp:153:18:virtual void touchgfx::Screen::tearDownScreen()	0	static
+Screen.hpp:198:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+Screen.hpp:213:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+Widget.hpp:74:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	0	static
+TextArea.hpp:69:18:virtual touchgfx::Rect touchgfx::TextArea::getSolidRect() const	0	static
+TextArea.hpp:161:18:virtual void touchgfx::TextArea::setXBaselineY(int16_t, int16_t)	16	static
+TextAreaWithWildcard.hpp:181:22:virtual uint16_t touchgfx::TextAreaWithOneWildcard::getType() const	0	static
+Screen3ViewBase.hpp:29:18:virtual void Screen3ViewBase::playPrevSong()	0	static
+Screen3ViewBase.hpp:34:18:virtual void Screen3ViewBase::playNextSong()	0	static
+Screen3ViewBase.hpp:39:18:virtual void Screen3ViewBase::playPause()	0	static
+Screen3ViewBase.hpp:44:18:virtual void Screen3ViewBase::moveSongPosition(int)	0	static
+Screen3ViewBase.cpp:75:6:virtual void Screen3ViewBase::setupScreen()	0	static
+Screen3ViewBase.cpp:80:6:void Screen3ViewBase::buttonCallbackHandler(const touchgfx::AbstractButton&)	8	static
+Screen3ViewBase.cpp:105:6:void Screen3ViewBase::sliderValueConfirmedCallbackHandler(const touchgfx::Slider&, int)	8	static
+Callback.hpp:379:8:touchgfx::Callback<Screen3ViewBase, const touchgfx::Slider&, int>::~Callback()	0	static
+Callback.hpp:469:8:touchgfx::Callback<Screen3ViewBase, const touchgfx::AbstractButton&>::~Callback()	0	static
+TextAreaWithWildcard.hpp:75:7:touchgfx::TextAreaWithOneWildcard::~TextAreaWithOneWildcard()	0	static
+Callback.hpp:422:18:void touchgfx::Callback<dest_type, T1, T2, void>::execute(T1, T2) [with dest_type = Screen3ViewBase; T1 = const touchgfx::Slider&; T2 = int]	16	static
+Callback.hpp:436:18:bool touchgfx::Callback<dest_type, T1, T2, void>::isValid() const [with dest_type = Screen3ViewBase; T1 = const touchgfx::Slider&; T2 = int]	0	static
+Callback.hpp:511:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = Screen3ViewBase; T1 = const touchgfx::AbstractButton&]	16	static
+Callback.hpp:525:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = Screen3ViewBase; T1 = const touchgfx::AbstractButton&]	0	static
+TextAreaWithWildcard.hpp:75:7:virtual touchgfx::TextAreaWithOneWildcard::~TextAreaWithOneWildcard()	8	static
+Callback.hpp:469:8:virtual touchgfx::Callback<Screen3ViewBase, const touchgfx::AbstractButton&>::~Callback()	8	static
+Callback.hpp:379:8:virtual touchgfx::Callback<Screen3ViewBase, const touchgfx::Slider&, int>::~Callback()	8	static
+TextArea.hpp:142:18:virtual void touchgfx::TextArea::setBaselineY(int16_t)	16	static
+TextAreaWithWildcard.hpp:101:21:virtual int16_t touchgfx::TextAreaWithOneWildcard::getTextHeight()	8	static
+TextAreaWithWildcard.hpp:167:22:virtual uint16_t touchgfx::TextAreaWithOneWildcard::getTextWidth() const	16	static
+TextAreaWithWildcard.hpp:116:18:virtual void touchgfx::TextAreaWithOneWildcard::draw(const touchgfx::Rect&) const	72	static
+Screen3ViewBase.cpp:9:1:Screen3ViewBase::Screen3ViewBase()	200	static
+Screen3ViewBase.hpp:22:13:Screen3ViewBase::~Screen3ViewBase()	8	static
+Screen3ViewBase.hpp:22:13:virtual Screen3ViewBase::~Screen3ViewBase()	8	static

@@ -67,7 +67,7 @@ Src/STM32F7Instrumentation.o: ../Src/STM32F7Instrumentation.cpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/platform/driver/touch/TouchController.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/platform/driver/button/ButtonController.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/platform/core/MCUInstrumentation.hpp \
- C:/Users/Mateusz/Desktop/f746g-disco-test/f746g-disco-test/Src/STM32F7Instrumentation.hpp \
+ C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7Instrumentation.hpp \
  ../Inc/main.h
 
 ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h:
@@ -206,6 +206,6 @@ Src/STM32F7Instrumentation.o: ../Src/STM32F7Instrumentation.cpp \
 
 ../Middlewares/ST/TouchGFX/touchgfx/framework/include/platform/core/MCUInstrumentation.hpp:
 
-C:/Users/Mateusz/Desktop/f746g-disco-test/f746g-disco-test/Src/STM32F7Instrumentation.hpp:
+C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7Instrumentation.hpp:
 
 ../Inc/main.h:

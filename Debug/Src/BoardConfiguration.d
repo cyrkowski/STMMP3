@@ -33,42 +33,59 @@ Src/BoardConfiguration.o: ../Src/BoardConfiguration.cpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/transitions/Transition.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/lcd/LCD.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Bitmap.hpp \
- ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/transitions/SlideTransition.hpp \
- ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/containers/Container.hpp \
- ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp \
- ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Application.hpp \
- ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Utils.hpp \
- ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp \
- ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/SnapshotWidget.hpp \
- ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Widget.hpp \
- ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/EasingEquations.hpp \
  ../TouchGFX/gui/include/gui/common/FrontendApplication.hpp \
  ../TouchGFX/generated/gui_generated/include/gui_generated/common/FrontendApplicationBase.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/mvp/MVPApplication.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Application.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/mvp/View.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Screen.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Application.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/containers/Container.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Utils.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/JSMOCHelper.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/mvp/Presenter.hpp \
  ../TouchGFX/gui/include/gui/model/Model.hpp \
- ../TouchGFX/gui/include/gui/screen1_screen/Screen1View.hpp \
- ../TouchGFX/generated/gui_generated/include/gui_generated/screen1_screen/Screen1ViewBase.hpp \
- ../TouchGFX/gui/include/gui/screen1_screen/Screen1Presenter.hpp \
+ ../TouchGFX/gui/include/gui/screen3_screen/Screen3View.hpp \
+ ../TouchGFX/generated/gui_generated/include/gui_generated/screen3_screen/Screen3ViewBase.hpp \
+ ../TouchGFX/gui/include/gui/screen3_screen/Screen3Presenter.hpp \
  ../TouchGFX/gui/include/gui/model/ModelListener.hpp \
- ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Box.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TiledImage.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Widget.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Image.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/ScalableImage.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/containers/Slider.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/containers/progress_indicators/CircleProgress.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/containers/progress_indicators/AbstractProgressIndicator.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/Circle.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/Canvas.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/transforms/DisplayTransformation.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/CWRUtil.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/canvas_widget_renderer/Rasterizer.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/canvas_widget_renderer/Outline.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/canvas_widget_renderer/Cell.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/canvas_widget_renderer/Renderer.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/canvas_widget_renderer/RenderingBuffer.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/canvas_widget_renderer/Scanline.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/canvas_widget_renderer/CanvasWidgetRenderer.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/AbstractPainter.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/CanvasWidget.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/AbstractPainterRGB565.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/PainterRGB565Bitmap.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/ButtonWithIcon.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Button.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/AbstractButton.hpp \
- ../TouchGFX/gui/include/gui/screen2_screen/Screen2View.hpp \
- ../TouchGFX/generated/gui_generated/include/gui_generated/screen2_screen/Screen2ViewBase.hpp \
- ../TouchGFX/gui/include/gui/screen2_screen/Screen2Presenter.hpp \
  ../TouchGFX/generated/images/include/BitmapDatabase.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/hal/BoardConfiguration.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/hal/GPIO.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/platform/driver/lcd/LCD16bpp.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/TextureMapTypes.hpp \
- C:/Users/Mateusz/Desktop/f746g-disco-test/f746g-disco-test/Src/STM32F7HAL.hpp \
- C:/Users/Mateusz/Desktop/f746g-disco-test/f746g-disco-test/Src/STM32F7DMA.hpp \
- C:/Users/Mateusz/Desktop/f746g-disco-test/f746g-disco-test/Src/STM32F7TouchController.hpp \
+ C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7HAL.hpp \
+ C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7DMA.hpp \
+ C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7TouchController.hpp \
  ../Inc/main.h ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h \
  ../Inc/stm32f7xx_hal_conf.h \
  ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_rcc.h \
@@ -121,7 +138,7 @@ Src/BoardConfiguration.o: ../Src/BoardConfiguration.cpp \
  ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart_ex.h \
  ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_hcd.h \
  ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_usb.h \
- C:/Users/Mateusz/Desktop/f746g-disco-test/f746g-disco-test/Src/STM32F7Instrumentation.hpp \
+ C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7Instrumentation.hpp \
  ../Src/HW_Init.hpp \
  ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_rcc_ex.h
 
@@ -193,29 +210,15 @@ Src/BoardConfiguration.o: ../Src/BoardConfiguration.cpp \
 
 ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Bitmap.hpp:
 
-../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/transitions/SlideTransition.hpp:
-
-../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/containers/Container.hpp:
-
-../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:
-
-../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Application.hpp:
-
-../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Utils.hpp:
-
-../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:
-
-../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/SnapshotWidget.hpp:
-
-../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:
-
-../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/EasingEquations.hpp:
-
 ../TouchGFX/gui/include/gui/common/FrontendApplication.hpp:
 
 ../TouchGFX/generated/gui_generated/include/gui_generated/common/FrontendApplicationBase.hpp:
 
 ../Middlewares/ST/TouchGFX/touchgfx/framework/include/mvp/MVPApplication.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Application.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Callback.hpp:
 
 ../Middlewares/ST/TouchGFX/touchgfx/framework/include/mvp/View.hpp:
 
@@ -223,31 +226,79 @@ Src/BoardConfiguration.o: ../Src/BoardConfiguration.cpp \
 
 ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Application.hpp:
 
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/containers/Container.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Drawable.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Utils.hpp:
+
 ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/JSMOCHelper.hpp:
 
 ../Middlewares/ST/TouchGFX/touchgfx/framework/include/mvp/Presenter.hpp:
 
 ../TouchGFX/gui/include/gui/model/Model.hpp:
 
-../TouchGFX/gui/include/gui/screen1_screen/Screen1View.hpp:
+../TouchGFX/gui/include/gui/screen3_screen/Screen3View.hpp:
 
-../TouchGFX/generated/gui_generated/include/gui_generated/screen1_screen/Screen1ViewBase.hpp:
+../TouchGFX/generated/gui_generated/include/gui_generated/screen3_screen/Screen3ViewBase.hpp:
 
-../TouchGFX/gui/include/gui/screen1_screen/Screen1Presenter.hpp:
+../TouchGFX/gui/include/gui/screen3_screen/Screen3Presenter.hpp:
 
 ../TouchGFX/gui/include/gui/model/ModelListener.hpp:
 
-../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Box.hpp:
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TiledImage.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Image.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/ScalableImage.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/containers/Slider.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/containers/progress_indicators/CircleProgress.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/containers/progress_indicators/AbstractProgressIndicator.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/Circle.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/Canvas.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/transforms/DisplayTransformation.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/CWRUtil.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/canvas_widget_renderer/Rasterizer.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/canvas_widget_renderer/Outline.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/canvas_widget_renderer/Cell.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/canvas_widget_renderer/Renderer.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/canvas_widget_renderer/RenderingBuffer.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/canvas_widget_renderer/Scanline.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/canvas_widget_renderer/CanvasWidgetRenderer.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/AbstractPainter.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/CanvasWidget.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/AbstractPainterRGB565.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/canvas/PainterRGB565Bitmap.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/ButtonWithIcon.hpp:
 
 ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Button.hpp:
 
 ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/AbstractButton.hpp:
-
-../TouchGFX/gui/include/gui/screen2_screen/Screen2View.hpp:
-
-../TouchGFX/generated/gui_generated/include/gui_generated/screen2_screen/Screen2ViewBase.hpp:
-
-../TouchGFX/gui/include/gui/screen2_screen/Screen2Presenter.hpp:
 
 ../TouchGFX/generated/images/include/BitmapDatabase.hpp:
 
@@ -259,11 +310,11 @@ Src/BoardConfiguration.o: ../Src/BoardConfiguration.cpp \
 
 ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/TextureMapTypes.hpp:
 
-C:/Users/Mateusz/Desktop/f746g-disco-test/f746g-disco-test/Src/STM32F7HAL.hpp:
+C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7HAL.hpp:
 
-C:/Users/Mateusz/Desktop/f746g-disco-test/f746g-disco-test/Src/STM32F7DMA.hpp:
+C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7DMA.hpp:
 
-C:/Users/Mateusz/Desktop/f746g-disco-test/f746g-disco-test/Src/STM32F7TouchController.hpp:
+C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7TouchController.hpp:
 
 ../Inc/main.h:
 
@@ -371,7 +422,7 @@ C:/Users/Mateusz/Desktop/f746g-disco-test/f746g-disco-test/Src/STM32F7TouchContr
 
 ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_usb.h:
 
-C:/Users/Mateusz/Desktop/f746g-disco-test/f746g-disco-test/Src/STM32F7Instrumentation.hpp:
+C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7Instrumentation.hpp:
 
 ../Src/HW_Init.hpp:
 
