@@ -69,6 +69,7 @@ Src/main.o: ../Src/main.cpp ../Inc/main.h \
  ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h \
  ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h \
  ../Inc/fatfs.h ../Middlewares/Third_Party/FatFs/src/ff.h \
+ C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/ffunicode.c \
  ../Middlewares/Third_Party/FatFs/src/integer.h ../Inc/ffconf.h \
  ../Inc/main.h ../Inc/bsp_driver_sd.h ../Inc/fatfs_platform.h \
  ../Middlewares/Third_Party/FatFs/src/ff_gen_drv.h \
@@ -219,6 +220,8 @@ Src/main.o: ../Src/main.cpp ../Inc/main.h \
 ../Inc/fatfs.h:
 
 ../Middlewares/Third_Party/FatFs/src/ff.h:
+
+C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/ffunicode.c:
 
 ../Middlewares/Third_Party/FatFs/src/integer.h:
 

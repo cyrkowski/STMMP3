@@ -141,6 +141,7 @@
 "Src/bsp_driver_sd.o"
 "Src/fatfs.o"
 "Src/fatfs_platform.o"
+"Src/ffunicode.o"
 "Src/freertos.o"
 "Src/main.o"
 "Src/sd_diskio.o"

@@ -25,6 +25,7 @@
 extern "C" {
 #endif
 
+#include "ffunicode.c"
 #include "integer.h"	/* Basic integer types */
 #include "ffconf.h"		/* FatFs configuration options */
 

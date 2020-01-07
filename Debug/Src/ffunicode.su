@@ -1,0 +1,4 @@
+ffunicode.c:15386:7:ff_uni2oem	48	static
+ffunicode.c:15438:7:ff_oem2uni	40	static
+ffunicode.c:15492:8:ff_convert	16	static
+ffunicode.c:15503:8:ff_wtoupper	16	static

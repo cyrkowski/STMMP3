@@ -1,7 +1,2 @@
 Converting images
-Compiling gui/src/screen3_screen/Screen3View.cpp
-Compiling gui/src/screen3_screen/Screen3Presenter.cpp
-Compiling generated/gui_generated/src/screen3_screen/Screen3ViewBase.cpp
-Compiling generated/gui_generated/src/common/FrontendApplicationBase.cpp
-Compiling simulator/main.cpp
 Linking build/bin/simulator.exe

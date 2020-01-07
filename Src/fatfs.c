@@ -5,7 +5,7 @@
   ******************************************************************************
   * @attention
   *
-  * <h2><center>&copy; Copyright (c) 2019 STMicroelectronics.
+  * <h2><center>&copy; Copyright (c) 2020 STMicroelectronics.
   * All rights reserved.</center></h2>
   *
   * This software component is licensed by ST under Ultimate Liberty license
@@ -15,8 +15,9 @@
   *
   ******************************************************************************
   */
-
 #include "fatfs.h"
+#include "ff.h"
+#include "string.h"
 
 uint8_t retSD;    /* Return value for SD */
 char SDPath[4];   /* SD logical drive path */
@@ -24,21 +25,25 @@ FATFS SDFatFS;    /* File system object for SD logical drive */
 FIL SDFile;       /* File object for SD */
 
 /* USER CODE BEGIN Variables */
-
+FIL fil;
+FRESULT fr;
+DIR dj;
+FILINFO fno;
 /* USER CODE END Variables */    
 
 void MX_FATFS_Init(void) 
 {
   /*## FatFS: Link the SD driver ###########################*/
   retSD = FATFS_LinkDriver(&SD_Driver, SDPath);
-
+  fr = f_mount(&SDFatFS, "\0", 1); //mounting file system
   /* USER CODE BEGIN Init */
   /* additional user code for init */
 
-  f_mount(&SDFatFS, "",0); //mounting file system in lazy mode
-
   /* USER CODE END Init */
 }
+/*
+
+*/
 
 /**
   * @brief  Gets Time from RTC 
@@ -56,6 +61,28 @@ DWORD get_fattime(void)
 FATFS* get_fatfsPointer(void){
 	return &SDFatFS;
 }
+
+int i = 0;
+
+FRESULT getFileName(TCHAR* fileNameBuffer){
+	if(i==0)
+    {
+		fr = f_findfirst(&dj, &fno, "", "*.mp3");
+		i++;
+    }
+	else
+	{
+		fr = f_findnext(&dj, &fno);
+	}
+	if(strcmp(fno.fname, "")==0)
+	{
+		i=0;
+	}
+	strcpy(fileNameBuffer, fno.fname);
+	return fr;
+}
+
+
 /* USER CODE END Application */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/

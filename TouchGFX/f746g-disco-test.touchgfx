@@ -60,7 +60,7 @@
             "Height": 32,
             "Type": "TextArea",
             "Visible": true,
-            "Draggable": true,
+            "Draggable": false,
             "Clickable": false,
             "Fadeable": false,
             "Moveable": false
@@ -86,7 +86,7 @@
             "Height": 52,
             "Type": "Slider",
             "Visible": true,
-            "Draggable": true,
+            "Draggable": false,
             "Clickable": false,
             "Fadeable": false,
             "Moveable": false
@@ -124,7 +124,7 @@
             "Height": 184,
             "Type": "CircleProgress",
             "Visible": true,
-            "Draggable": true,
+            "Draggable": false,
             "Clickable": false,
             "Fadeable": false,
             "Moveable": false
@@ -147,7 +147,7 @@
             "Height": 60,
             "Type": "ButtonWithIcon",
             "Visible": true,
-            "Draggable": true,
+            "Draggable": false,
             "Clickable": false,
             "Fadeable": false,
             "Moveable": false
@@ -170,7 +170,7 @@
             "Height": 60,
             "Type": "ButtonWithIcon",
             "Visible": true,
-            "Draggable": true,
+            "Draggable": false,
             "Clickable": false,
             "Fadeable": false,
             "Moveable": false

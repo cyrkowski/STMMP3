@@ -5,7 +5,7 @@
   ******************************************************************************
   * @attention
   *
-  * <h2><center>&copy; Copyright (c) 2019 STMicroelectronics.
+  * <h2><center>&copy; Copyright (c) 2020 STMicroelectronics.
   * All rights reserved.</center></h2>
   *
   * This software component is licensed by ST under Ultimate Liberty license
@@ -23,12 +23,15 @@
  extern "C" {
 #endif
 
+
 #include "ff.h"
 #include "ff_gen_drv.h"
 #include "sd_diskio.h" /* defines SD_Driver as external */
 
 /* USER CODE BEGIN Includes */
-
+ extern FRESULT fr;
+ extern DIR dj;
+ extern FILINFO fno;
 /* USER CODE END Includes */
 
 extern uint8_t retSD; /* Return value for SD */
@@ -37,6 +40,8 @@ extern FATFS SDFatFS; /* File system object for SD logical drive */
 extern FIL SDFile; /* File object for SD */
 
 void MX_FATFS_Init(void);
+
+FRESULT getFileName(TCHAR* fileNameBuffer);
 
 /* USER CODE BEGIN Prototypes */
 

@@ -3,6 +3,7 @@ Middlewares/Third_Party/FatFs/src/diskio.o: \
  ../Middlewares/Third_Party/FatFs/src/diskio.h \
  ../Middlewares/Third_Party/FatFs/src/integer.h \
  ../Middlewares/Third_Party/FatFs/src/ff_gen_drv.h \
+ ../Middlewares/Third_Party/FatFs/src/ff.h ../Src/ffunicode.c \
  ../Middlewares/Third_Party/FatFs/src/ff.h ../Inc/ffconf.h ../Inc/main.h \
  ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h \
  ../Inc/stm32f7xx_hal_conf.h \
@@ -80,6 +81,10 @@ Middlewares/Third_Party/FatFs/src/diskio.o: \
 ../Middlewares/Third_Party/FatFs/src/integer.h:
 
 ../Middlewares/Third_Party/FatFs/src/ff_gen_drv.h:
+
+../Middlewares/Third_Party/FatFs/src/ff.h:
+
+../Src/ffunicode.c:
 
 ../Middlewares/Third_Party/FatFs/src/ff.h:
 

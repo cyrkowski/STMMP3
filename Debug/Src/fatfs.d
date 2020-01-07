@@ -1,5 +1,5 @@
 Src/fatfs.o: ../Src/fatfs.c ../Inc/fatfs.h \
- ../Middlewares/Third_Party/FatFs/src/ff.h \
+ ../Middlewares/Third_Party/FatFs/src/ff.h ../Src/ffunicode.c \
  ../Middlewares/Third_Party/FatFs/src/integer.h ../Inc/ffconf.h \
  ../Inc/main.h ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h \
  ../Inc/stm32f7xx_hal_conf.h \
@@ -78,6 +78,8 @@ Src/fatfs.o: ../Src/fatfs.c ../Inc/fatfs.h \
 ../Inc/fatfs.h:
 
 ../Middlewares/Third_Party/FatFs/src/ff.h:
+
+../Src/ffunicode.c:
 
 ../Middlewares/Third_Party/FatFs/src/integer.h:
 

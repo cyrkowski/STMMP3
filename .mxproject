@@ -1,7 +1,7 @@
 [PreviousGenFiles]
-HeaderPath=C:/Users/Mateusz/Desktop/f746g-disco-test/f746g-disco-test/Inc
+HeaderPath=C:/Users/Mateusz/Desktop/stm32/STMMP3/Inc
 HeaderFiles=ffconf.h;bsp_driver_sd.h;sd_diskio.h;fatfs.h;fatfs_platform.h;FreeRTOSConfig.h;usb_host.h;usbh_conf.h;usbh_platform.h;stm32f7xx_it.h;stm32f7xx_hal_conf.h;main.h;STM32F7DMA.hpp;STM32F7HAL.hpp;STM32F7TouchController.hpp;STM32F7Instrumentation.hpp;HW_Init.hpp;ApplicationFontProvider.hpp;
-SourcePath=C:/Users/Mateusz/Desktop/f746g-disco-test/f746g-disco-test/Src
+SourcePath=C:/Users/Mateusz/Desktop/stm32/STMMP3/Src
 SourceFiles=bsp_driver_sd.c;sd_diskio.c;fatfs.c;fatfs_platform.c;freertos.c;usb_host.c;usbh_conf.c;usbh_platform.c;stm32f7xx_it.c;stm32f7xx_hal_msp.c;stm32f7xx_hal_timebase_tim.c;main.c;BoardConfiguration.cpp;GPIO.cpp;STM32F7DMA.cpp;STM32F7HAL.cpp;STM32F7TouchController.cpp;STM32F7Instrumentation.cpp;HW_Init.cpp;*.cpp;main.cpp;
 
 [PreviousLibFiles]

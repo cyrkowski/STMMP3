@@ -78,14 +78,9 @@ Src/BoardConfiguration.o: ../Src/BoardConfiguration.cpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/ButtonWithIcon.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Button.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/AbstractButton.hpp \
- ../TouchGFX/generated/images/include/BitmapDatabase.hpp \
- ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/hal/BoardConfiguration.hpp \
- ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/hal/GPIO.hpp \
- ../Middlewares/ST/TouchGFX/touchgfx/framework/include/platform/driver/lcd/LCD16bpp.hpp \
- ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/TextureMapTypes.hpp \
- C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7HAL.hpp \
- C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7DMA.hpp \
- C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7TouchController.hpp \
+ ../Inc/fatfs.h ../Middlewares/Third_Party/FatFs/src/ff.h \
+ C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/ffunicode.c \
+ ../Middlewares/Third_Party/FatFs/src/integer.h ../Inc/ffconf.h \
  ../Inc/main.h ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h \
  ../Inc/stm32f7xx_hal_conf.h \
  ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_rcc.h \
@@ -138,6 +133,36 @@ Src/BoardConfiguration.o: ../Src/BoardConfiguration.cpp \
  ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart_ex.h \
  ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_hcd.h \
  ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_usb.h \
+ ../Inc/bsp_driver_sd.h ../Inc/fatfs_platform.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h \
+ ../Inc/FreeRTOSConfig.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM7/r0p1/portmacro.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/semphr.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h \
+ ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h \
+ ../Middlewares/Third_Party/FatFs/src/ff_gen_drv.h \
+ ../Middlewares/Third_Party/FatFs/src/diskio.h \
+ ../Middlewares/Third_Party/FatFs/src/ff.h ../Inc/sd_diskio.h \
+ ../TouchGFX/generated/images/include/BitmapDatabase.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/hal/BoardConfiguration.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/hal/GPIO.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/platform/driver/lcd/LCD16bpp.hpp \
+ ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/TextureMapTypes.hpp \
+ C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7HAL.hpp \
+ C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7DMA.hpp \
+ C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7TouchController.hpp \
+ ../Inc/main.h \
  C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7Instrumentation.hpp \
  ../Src/HW_Init.hpp \
  ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_rcc_ex.h
@@ -300,21 +325,15 @@ Src/BoardConfiguration.o: ../Src/BoardConfiguration.cpp \
 
 ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/AbstractButton.hpp:
 
-../TouchGFX/generated/images/include/BitmapDatabase.hpp:
+../Inc/fatfs.h:
 
-../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/hal/BoardConfiguration.hpp:
+../Middlewares/Third_Party/FatFs/src/ff.h:
 
-../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/hal/GPIO.hpp:
+C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/ffunicode.c:
 
-../Middlewares/ST/TouchGFX/touchgfx/framework/include/platform/driver/lcd/LCD16bpp.hpp:
+../Middlewares/Third_Party/FatFs/src/integer.h:
 
-../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/TextureMapTypes.hpp:
-
-C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7HAL.hpp:
-
-C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7DMA.hpp:
-
-C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7TouchController.hpp:
+../Inc/ffconf.h:
 
 ../Inc/main.h:
 
@@ -421,6 +440,70 @@ C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7TouchController.hpp:
 ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_hcd.h:
 
 ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_ll_usb.h:
+
+../Inc/bsp_driver_sd.h:
+
+../Inc/fatfs_platform.h:
+
+../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h:
+
+../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h:
+
+../Inc/FreeRTOSConfig.h:
+
+../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h:
+
+../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h:
+
+../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h:
+
+../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM7/r0p1/portmacro.h:
+
+../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h:
+
+../Middlewares/Third_Party/FreeRTOS/Source/include/task.h:
+
+../Middlewares/Third_Party/FreeRTOS/Source/include/list.h:
+
+../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h:
+
+../Middlewares/Third_Party/FreeRTOS/Source/include/task.h:
+
+../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h:
+
+../Middlewares/Third_Party/FreeRTOS/Source/include/semphr.h:
+
+../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h:
+
+../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h:
+
+../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h:
+
+../Middlewares/Third_Party/FatFs/src/ff_gen_drv.h:
+
+../Middlewares/Third_Party/FatFs/src/diskio.h:
+
+../Middlewares/Third_Party/FatFs/src/ff.h:
+
+../Inc/sd_diskio.h:
+
+../TouchGFX/generated/images/include/BitmapDatabase.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/hal/BoardConfiguration.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/hal/GPIO.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/platform/driver/lcd/LCD16bpp.hpp:
+
+../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/TextureMapTypes.hpp:
+
+C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7HAL.hpp:
+
+C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7DMA.hpp:
+
+C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7TouchController.hpp:
+
+../Inc/main.h:
 
 C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7Instrumentation.hpp:
 

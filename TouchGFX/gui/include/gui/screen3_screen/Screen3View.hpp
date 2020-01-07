@@ -3,6 +3,7 @@
 
 #include <gui_generated/screen3_screen/Screen3ViewBase.hpp>
 #include <gui/screen3_screen/Screen3Presenter.hpp>
+#include "fatfs.h"
 
 class Screen3View : public Screen3ViewBase
 {
@@ -15,6 +16,7 @@ public:
     virtual void playNextSong();
     virtual void playPause();
     virtual void moveSongPosition(int value);
+    //virtual void printErrorName(FRESULT fr, touchgfx::Unicode::UnicodeChar *songNameBuffer);
 protected:
 };
 

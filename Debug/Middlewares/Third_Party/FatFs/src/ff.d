@@ -1,5 +1,6 @@
 Middlewares/Third_Party/FatFs/src/ff.o: \
  ../Middlewares/Third_Party/FatFs/src/ff.c \
+ ../Middlewares/Third_Party/FatFs/src/ff.h ../Src/ffunicode.c \
  ../Middlewares/Third_Party/FatFs/src/ff.h \
  ../Middlewares/Third_Party/FatFs/src/integer.h ../Inc/ffconf.h \
  ../Inc/main.h ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h \
@@ -73,6 +74,10 @@ Middlewares/Third_Party/FatFs/src/ff.o: \
  ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h \
  ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h \
  ../Middlewares/Third_Party/FatFs/src/diskio.h
+
+../Middlewares/Third_Party/FatFs/src/ff.h:
+
+../Src/ffunicode.c:
 
 ../Middlewares/Third_Party/FatFs/src/ff.h:
 
