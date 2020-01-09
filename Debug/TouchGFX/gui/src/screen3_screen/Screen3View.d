@@ -148,7 +148,12 @@ TouchGFX/gui/src/screen3_screen/Screen3View.o: \
  ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h \
  ../Middlewares/Third_Party/FatFs/src/ff_gen_drv.h \
  ../Middlewares/Third_Party/FatFs/src/diskio.h \
- ../Middlewares/Third_Party/FatFs/src/ff.h ../Inc/sd_diskio.h
+ ../Middlewares/Third_Party/FatFs/src/ff.h ../Inc/sd_diskio.h \
+ ../Inc/helix\pub\mp3dec.h ../Inc/helix\pub\../platform.h \
+ C:/Users/Mateusz/Desktop/stm32/STMMP3/STM32746G-Discovery/stm32746g_discovery_audio.h \
+ c:\users\mateusz\desktop\stm32\stmmp3\components\wm8994\wm8994.h \
+ c:\users\mateusz\desktop\stm32\stmmp3\components\common\audio.h \
+ C:/Users/Mateusz/Desktop/stm32/STMMP3/STM32746G-Discovery/stm32746g_discovery.h
 
 ../TouchGFX/gui/include/gui/screen3_screen/Screen3View.hpp:
 
@@ -457,3 +462,15 @@ C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/ffunicode.c:
 ../Middlewares/Third_Party/FatFs/src/ff.h:
 
 ../Inc/sd_diskio.h:
+
+../Inc/helix\pub\mp3dec.h:
+
+../Inc/helix\pub\../platform.h:
+
+C:/Users/Mateusz/Desktop/stm32/STMMP3/STM32746G-Discovery/stm32746g_discovery_audio.h:
+
+c:\users\mateusz\desktop\stm32\stmmp3\components\wm8994\wm8994.h:
+
+c:\users\mateusz\desktop\stm32\stmmp3\components\common\audio.h:
+
+C:/Users/Mateusz/Desktop/stm32/STMMP3/STM32746G-Discovery/stm32746g_discovery.h:
