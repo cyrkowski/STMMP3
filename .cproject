@@ -156,13 +156,13 @@
 					<fileInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.375064395.95409926" name="SDL2TouchController.hpp" rcbsApplicability="disable" resourcePath="Middlewares/ST/TouchGFX/touchgfx/framework/include/platform/driver/touch/SDL2TouchController.hpp" toolsToInvoke=""/>
 					<fileInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.375064395.260297590" name="SDLTouchController.hpp" rcbsApplicability="disable" resourcePath="Middlewares/ST/TouchGFX/touchgfx/framework/include/platform/driver/touch/SDLTouchController.hpp" toolsToInvoke=""/>
 					<sourceEntries>
-						<entry excluding="ST/TouchGFX/touchgfx/framework/source/platform/hal/simulator|ST/TouchGFX/touchgfx/framework/include/platform/hal/simulator|ST/TouchGFX/touchgfx/framework/source/platform/hal/simulator/sdl2/OSWrappers.cpp|ST/TouchGFX/touchgfx/framework/source/platform/hal/simulator/sdl2/HALSDL2.cpp|ST/TouchGFX/touchgfx/framework/source/platform/hal/simulator/sdl2/HALSDL2_icon.cpp|ST/TouchGFX/touchgfx/framework/source/platform/driver/touch/SDL2TouchController.cpp|ST/TouchGFX/touchgfx/framework/include/platform/driver/touch/SDLTouchController.hpp|ST/TouchGFX/touchgfx/framework/include/platform/driver/touch/SDL2TouchController.hpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Middlewares"/>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Startup"/>
-						<entry excluding="STM32746G-Discovery_BSP_User_Manual.chm|Release_Notes.html|stm32746g_discovery_sdram.h|stm32746g_discovery_sdram.c|stm32746g_discovery_sd.h|stm32746g_discovery_sd.c|stm32746g_discovery_qspi.h|stm32746g_discovery_qspi.c|stm32746g_discovery_lcd.h|stm32746g_discovery_lcd.c|stm32746g_discovery_eeprom.h|stm32746g_discovery_eeprom.c|stm32746g_discovery_camera.h|stm32746g_discovery_camera.c|stm32746g_discovery_audio.h|stm32746g_discovery_audio.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="STM32746G-Discovery"/>
-						<entry excluding="simulator|simulator/main.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TouchGFX"/>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Src"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Components/ft5336"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Drivers"/>
+						<entry excluding="ST/TouchGFX/touchgfx/framework/source/platform/hal/simulator|ST/TouchGFX/touchgfx/framework/include/platform/hal/simulator|ST/TouchGFX/touchgfx/framework/source/platform/hal/simulator/sdl2/OSWrappers.cpp|ST/TouchGFX/touchgfx/framework/source/platform/hal/simulator/sdl2/HALSDL2.cpp|ST/TouchGFX/touchgfx/framework/source/platform/hal/simulator/sdl2/HALSDL2_icon.cpp|ST/TouchGFX/touchgfx/framework/source/platform/driver/touch/SDL2TouchController.cpp|ST/TouchGFX/touchgfx/framework/include/platform/driver/touch/SDLTouchController.hpp|ST/TouchGFX/touchgfx/framework/include/platform/driver/touch/SDL2TouchController.hpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Middlewares"/>
+						<entry excluding="STM32746G-Discovery_BSP_User_Manual.chm|Release_Notes.html|stm32746g_discovery_sdram.h|stm32746g_discovery_sdram.c|stm32746g_discovery_sd.h|stm32746g_discovery_sd.c|stm32746g_discovery_qspi.h|stm32746g_discovery_qspi.c|stm32746g_discovery_lcd.h|stm32746g_discovery_lcd.c|stm32746g_discovery_eeprom.h|stm32746g_discovery_eeprom.c|stm32746g_discovery_camera.h|stm32746g_discovery_camera.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="STM32746G-Discovery"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Src"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Startup"/>
+						<entry excluding="simulator|simulator/main.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TouchGFX"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -294,6 +294,7 @@
 							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec.1572516593" name="MCU Output Converter Motorola S-rec with symbols" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec"/>
 						</toolChain>
 					</folderInfo>
+					<fileInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.release.1810002751.970855268" name="stm32746g_discovery_audio.h" rcbsApplicability="disable" resourcePath="STM32746G-Discovery/stm32746g_discovery_audio.h" toolsToInvoke=""/>
 					<sourceEntries>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Startup"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TouchGFX"/>

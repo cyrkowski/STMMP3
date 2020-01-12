@@ -128,6 +128,8 @@ c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externalt
                               Middlewares/ST/STM32_USB_Host_Library/Class/CDC/Src/usbh_cdc.o (malloc)
 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
                               Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/containers/ScrollableContainer.o (memcpy)
+c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
+                              Src/mp3dec.o (memmove)
 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
                               c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (memset)
 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
@@ -146,6 +148,10 @@ c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externalt
                               c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-signal.o) (_kill_r)
 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcpy.o)
                               Src/fatfs.o (strcpy)
+c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
+                              Src/mp3_player.o (strlen)
+c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strstr.o)
+                              Src/mp3_player.o (strstr)
 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wbuf.o)
                               c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf.o) (__swbuf_r)
 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wsetup.o)
@@ -166,8 +172,6 @@ c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externalt
                               c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wsetup.o) (__smakebuf_r)
 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memchr.o)
                               c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf.o) (memchr)
-c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
-                              c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-fvwrite.o) (memmove)
 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
                               c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-reallocr.o)
@@ -191,9 +195,9 @@ c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externalt
 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-readr.o)
                               c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-stdio.o) (_read_r)
 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
-                              c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-wf_pow.o) (__aeabi_f2d)
+                              Src/mp3_player.o (__aeabi_i2d)
 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
-                              c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-wf_sqrt.o) (__aeabi_ddiv)
+                              Src/mp3_player.o (__aeabi_ddiv)
 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
                               c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a(lib_a-wf_pow.o) (__aeabi_d2f)
 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
@@ -208,17 +212,25 @@ Common symbol       size              file
 
 SDFatFS             0x238             Src/fatfs.o
 errno               0x4               c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+paths               0x4               Src/mp3_player.o
 SDFile              0x230             Src/fatfs.o
 hhcd_USB_OTG_FS     0x2c4             Src/usbh_conf.o
 pFlash              0x1c              Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_flash.o
+audio_drv           0x4               STM32746G-Discovery/stm32746g_discovery_audio.o
+output_buffer       0x2400            Src/mp3_player.o
 SDPath              0x4               Src/fatfs.o
 uwTick              0x4               Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal.o
+input_file          0x230             Src/mp3_player.o
 hUsbHostFS          0x3d8             Src/usb_host.o
 dj                  0x38              Src/fatfs.o
 xQueueRegistry      0x40              Middlewares/Third_Party/FreeRTOS/Source/queue.o
 fno                 0x118             Src/fatfs.o
 retSD               0x1               Src/fatfs.o
+input_buffer        0xf28             Src/mp3_player.o
+gui_info_text       0x64              Src/mp3_player.o
+state               0x1               Src/mp3_player.o
 htim6               0x40              Src/stm32f7xx_hal_timebase_tim.o
+haudio_tim          0x40              STM32746G-Discovery/stm32746g_discovery_audio.o
 
 Discarded input sections
 
@@ -20866,6 +20878,258 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x217 STM32746G-Discovery/stm32746g_discovery.o
  .debug_macro   0x0000000000000000       0x68 STM32746G-Discovery/stm32746g_discovery.o
  .debug_macro   0x0000000000000000      0x14e STM32746G-Discovery/stm32746g_discovery.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text          0x0000000000000000        0x0 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .data          0x0000000000000000        0x0 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .bss           0x0000000000000000        0x0 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .bss.haudio_out_sai
+                0x0000000000000000       0x84 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .bss.haudio_in_sai
+                0x0000000000000000       0x84 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .data.AudioInVolume
+                0x0000000000000000        0x2 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_OUT_Init
+                0x0000000000000000       0xa4 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_OUT_Play
+                0x0000000000000000       0x54 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_OUT_ChangeBuffer
+                0x0000000000000000       0x24 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_OUT_Pause
+                0x0000000000000000       0x2c STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_OUT_Resume
+                0x0000000000000000       0x2c STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_OUT_Stop
+                0x0000000000000000       0x44 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_OUT_SetVolume
+                0x0000000000000000       0x30 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_OUT_SetMute
+                0x0000000000000000       0x2c STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_OUT_SetOutputMode
+                0x0000000000000000       0x30 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_OUT_SetFrequency
+                0x0000000000000000       0x4c STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_OUT_SetAudioFrameSlot
+                0x0000000000000000       0x40 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_OUT_DeInit
+                0x0000000000000000       0x18 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.HAL_SAI_TxCpltCallback
+                0x0000000000000000       0x14 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.HAL_SAI_TxHalfCpltCallback
+                0x0000000000000000       0x14 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.HAL_SAI_ErrorCallback
+                0x0000000000000000       0x4c STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_OUT_TransferComplete_CallBack
+                0x0000000000000000        0xe STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_OUT_HalfTransfer_CallBack
+                0x0000000000000000        0xe STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_OUT_Error_CallBack
+                0x0000000000000000        0xe STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_OUT_MspInit
+                0x0000000000000000      0x1ac STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_OUT_MspDeInit
+                0x0000000000000000       0x8c STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_OUT_ClockConfig
+                0x0000000000000000       0x86 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.SAIx_Out_Init
+                0x0000000000000000       0xbc STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.SAIx_Out_DeInit
+                0x0000000000000000       0x2c STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_IN_Init
+                0x0000000000000000       0x24 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_IN_InitEx
+                0x0000000000000000       0xd8 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_IN_OUT_Init
+                0x0000000000000000       0xf4 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_IN_Record
+                0x0000000000000000       0x30 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_IN_Stop
+                0x0000000000000000       0x44 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_IN_Pause
+                0x0000000000000000       0x14 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_IN_Resume
+                0x0000000000000000       0x14 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_IN_SetVolume
+                0x0000000000000000       0x3c STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_IN_DeInit
+                0x0000000000000000       0x18 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.HAL_SAI_RxCpltCallback
+                0x0000000000000000       0x14 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.HAL_SAI_RxHalfCpltCallback
+                0x0000000000000000       0x14 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_IN_TransferComplete_CallBack
+                0x0000000000000000        0xe STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_IN_HalfTransfer_CallBack
+                0x0000000000000000        0xe STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_IN_Error_CallBack
+                0x0000000000000000        0xe STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_IN_MspInit
+                0x0000000000000000      0x164 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.BSP_AUDIO_IN_MspDeInit
+                0x0000000000000000       0x64 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.SAIx_In_Init
+                0x0000000000000000      0x16c STM32746G-Discovery/stm32746g_discovery_audio.o
+ .text.SAIx_In_DeInit
+                0x0000000000000000       0x2c STM32746G-Discovery/stm32746g_discovery_audio.o
+ .bss.hdma_sai_tx.11222
+                0x0000000000000000       0x60 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .bss.hdma_sai_rx.11309
+                0x0000000000000000       0x60 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .bss.hdma_sai_rx.11320
+                0x0000000000000000       0x60 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_info    0x0000000000000000     0x1afb STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_abbrev  0x0000000000000000      0x2ed STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_aranges
+                0x0000000000000000      0x160 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_ranges  0x0000000000000000      0x150 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x31d STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0xa5a STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x22 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x8e STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x51 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0xef STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x6a STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x1df STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x10 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0xb8 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x1eb STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x2e STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x3b STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x1c STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x22 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0xdf STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000     0x12cd STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x11f STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x19 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000    0x1882d STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x43 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000     0x363d STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x174 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x61 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000     0x18ad STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x6c4 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x103 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x117 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x1fe STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x27 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x24f STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x41 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x58 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x236 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x408 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x161 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x100 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0xd5 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x4c STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x20f STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x22c STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0xccf STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x14f STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x25b STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x12 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x514 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x22c STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x5a STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0xa5 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x198 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0xd6 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x12f STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x108 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x35 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x2e2 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x313 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x4ca STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0xd6 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x447 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x757 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x19f STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x1ed STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x2fe STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x9e2 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x59 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x519 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x44 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x217 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000       0x68 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x14e STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x262 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_macro   0x0000000000000000      0x184 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_line    0x0000000000000000      0xddb STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_str     0x0000000000000000   0x10cfff STM32746G-Discovery/stm32746g_discovery_audio.o
+ .comment       0x0000000000000000       0x7c STM32746G-Discovery/stm32746g_discovery_audio.o
+ .debug_frame   0x0000000000000000      0x588 STM32746G-Discovery/stm32746g_discovery_audio.o
+ .ARM.attributes
+                0x0000000000000000       0x39 STM32746G-Discovery/stm32746g_discovery_audio.o
+ COMMON         0x0000000000000000       0x44 STM32746G-Discovery/stm32746g_discovery_audio.o
  .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_ts.o
  .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_ts.o
  .group         0x0000000000000000        0xc STM32746G-Discovery/stm32746g_discovery_ts.o
@@ -23367,6 +23631,403 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x12 Src/main.o
  .debug_macro   0x0000000000000000       0xe2 Src/main.o
  .debug_macro   0x0000000000000000       0x8e Src/main.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3_player.o
+ .text          0x0000000000000000        0x0 Src/mp3_player.o
+ .data          0x0000000000000000        0x0 Src/mp3_player.o
+ .bss           0x0000000000000000        0x0 Src/mp3_player.o
+ .bss.hMP3Decoder
+                0x0000000000000000        0x4 Src/mp3_player.o
+ .bss.current_ptr
+                0x0000000000000000        0x4 Src/mp3_player.o
+ .bss.out_buf_offs
+                0x0000000000000000        0x1 Src/mp3_player.o
+ .bss.mp3FilesCounter
+                0x0000000000000000        0x4 Src/mp3_player.o
+ .data.currentFilePosition
+                0x0000000000000000        0x4 Src/mp3_player.o
+ .bss.currentFileBytes
+                0x0000000000000000        0x4 Src/mp3_player.o
+ .bss.currentFileBytesRead
+                0x0000000000000000        0x4 Src/mp3_player.o
+ .bss.buffer_leftover
+                0x0000000000000000        0x4 Src/mp3_player.o
+ .bss.in_buf_offs
+                0x0000000000000000        0x4 Src/mp3_player.o
+ .bss.decode_result
+                0x0000000000000000        0x4 Src/mp3_player.o
+ .bss.has_been_paused
+                0x0000000000000000        0x4 Src/mp3_player.o
+ .rodata        0x0000000000000000       0x15 Src/mp3_player.o
+ .text.mp3_player_fsm
+                0x0000000000000000      0x348 Src/mp3_player.o
+ .text.BSP_init
+                0x0000000000000000       0x20 Src/mp3_player.o
+ .text.mp3_player_play
+                0x0000000000000000      0x164 Src/mp3_player.o
+ .text.mp3_player_process_frame
+                0x0000000000000000      0x198 Src/mp3_player.o
+ .text.BSP_AUDIO_OUT_TransferComplete_CallBack
+                0x0000000000000000       0x2c Src/mp3_player.o
+ .text.BSP_AUDIO_OUT_HalfTransfer_CallBack
+                0x0000000000000000       0x2c Src/mp3_player.o
+ .text.fill_input_buffer
+                0x0000000000000000       0x80 Src/mp3_player.o
+ .text.copy_leftover
+                0x0000000000000000       0x2c Src/mp3_player.o
+ .text.reset_player_state
+                0x0000000000000000       0x2c Src/mp3_player.o
+ .debug_info    0x0000000000000000     0x1563 Src/mp3_player.o
+ .debug_abbrev  0x0000000000000000      0x335 Src/mp3_player.o
+ .debug_aranges
+                0x0000000000000000       0x60 Src/mp3_player.o
+ .debug_ranges  0x0000000000000000       0xb8 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x580 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0xa5a Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x22 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x8e Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x51 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0xef Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x6a Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x1df Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x1c Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x46 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x18 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x3c Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x34 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x174 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x52 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x1f Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x43 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x20 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x1a3 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x330 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x10 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x35 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x20 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x16 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x16 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x29 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x1eb Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x2e Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x3b Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x1c Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x22 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0xd9 Src/mp3_player.o
+ .debug_macro   0x0000000000000000     0x12cd Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x11f Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x19 Src/mp3_player.o
+ .debug_macro   0x0000000000000000    0x1882d Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x43 Src/mp3_player.o
+ .debug_macro   0x0000000000000000     0x363d Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x5b Src/mp3_player.o
+ .debug_macro   0x0000000000000000     0x18ad Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x6c4 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x103 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x117 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x1fe Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x27 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x24f Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x41 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x58 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x236 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x408 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x161 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x100 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0xd5 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x4c Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x20f Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x22c Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0xccf Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x14f Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x25b Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x12 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x514 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x22c Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x5a Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0xa5 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x198 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0xd6 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x12f Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x108 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x35 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x2e2 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x313 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x4ca Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0xd6 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x447 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x757 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x19f Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x1ed Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x2fe Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x9e2 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x59 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x519 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x44 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x217 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x68 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x14e Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x89f Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x1c Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x3a Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x103 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x15a Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0xd7 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x10 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x1f Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x486 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0xb5 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x8c Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x91 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x86 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x7e Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x19 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0xcf Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0xf3 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0xe2 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x8e Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0x16 Src/mp3_player.o
+ .debug_macro   0x0000000000000000       0xb8 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x268 Src/mp3_player.o
+ .debug_macro   0x0000000000000000      0x184 Src/mp3_player.o
+ .debug_line    0x0000000000000000      0xf6a Src/mp3_player.o
+ .debug_str     0x0000000000000000   0x117275 Src/mp3_player.o
+ .comment       0x0000000000000000       0x7c Src/mp3_player.o
+ .debug_frame   0x0000000000000000      0x140 Src/mp3_player.o
+ .ARM.attributes
+                0x0000000000000000       0x39 Src/mp3_player.o
+ COMMON         0x0000000000000000     0x35c1 Src/mp3_player.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3dec.o
+ .text          0x0000000000000000        0x0 Src/mp3dec.o
+ .data          0x0000000000000000        0x0 Src/mp3dec.o
+ .bss           0x0000000000000000        0x0 Src/mp3dec.o
+ .text.MP3InitDecoder
+                0x0000000000000000       0x16 Src/mp3dec.o
+ .text.MP3FreeDecoder
+                0x0000000000000000       0x22 Src/mp3dec.o
+ .text.MP3FindSyncWord
+                0x0000000000000000       0x52 Src/mp3dec.o
+ .text.MP3FindFreeSync
+                0x0000000000000000       0xa0 Src/mp3dec.o
+ .text.MP3GetLastFrameInfo
+                0x0000000000000000       0xc0 Src/mp3dec.o
+ .text.MP3GetNextFrameInfo
+                0x0000000000000000       0x4e Src/mp3dec.o
+ .text.MP3ClearBadFrame
+                0x0000000000000000       0x56 Src/mp3dec.o
+ .text.MP3Decode
+                0x0000000000000000      0x430 Src/mp3dec.o
+ .debug_info    0x0000000000000000      0xf34 Src/mp3dec.o
+ .debug_abbrev  0x0000000000000000      0x2c5 Src/mp3dec.o
+ .debug_aranges
+                0x0000000000000000       0x58 Src/mp3dec.o
+ .debug_ranges  0x0000000000000000       0x48 Src/mp3dec.o
+ .debug_macro   0x0000000000000000      0x15a Src/mp3dec.o
+ .debug_macro   0x0000000000000000      0xa5a Src/mp3dec.o
+ .debug_macro   0x0000000000000000       0x22 Src/mp3dec.o
+ .debug_macro   0x0000000000000000       0x40 Src/mp3dec.o
+ .debug_macro   0x0000000000000000       0x18 Src/mp3dec.o
+ .debug_macro   0x0000000000000000       0x94 Src/mp3dec.o
+ .debug_macro   0x0000000000000000       0x3c Src/mp3dec.o
+ .debug_macro   0x0000000000000000       0x34 Src/mp3dec.o
+ .debug_macro   0x0000000000000000      0x174 Src/mp3dec.o
+ .debug_macro   0x0000000000000000       0x57 Src/mp3dec.o
+ .debug_macro   0x0000000000000000       0x52 Src/mp3dec.o
+ .debug_macro   0x0000000000000000       0x1f Src/mp3dec.o
+ .debug_macro   0x0000000000000000       0x43 Src/mp3dec.o
+ .debug_macro   0x0000000000000000       0x20 Src/mp3dec.o
+ .debug_macro   0x0000000000000000      0x1a3 Src/mp3dec.o
+ .debug_macro   0x0000000000000000      0x330 Src/mp3dec.o
+ .debug_macro   0x0000000000000000       0x10 Src/mp3dec.o
+ .debug_macro   0x0000000000000000       0x35 Src/mp3dec.o
+ .debug_macro   0x0000000000000000       0x20 Src/mp3dec.o
+ .debug_macro   0x0000000000000000       0xef Src/mp3dec.o
+ .debug_macro   0x0000000000000000       0x6a Src/mp3dec.o
+ .debug_macro   0x0000000000000000      0x1df Src/mp3dec.o
+ .debug_macro   0x0000000000000000       0x1c Src/mp3dec.o
+ .debug_macro   0x0000000000000000       0x88 Src/mp3dec.o
+ .debug_macro   0x0000000000000000       0x22 Src/mp3dec.o
+ .debug_line    0x0000000000000000      0x6b5 Src/mp3dec.o
+ .debug_str     0x0000000000000000     0x76f3 Src/mp3dec.o
+ .comment       0x0000000000000000       0x7c Src/mp3dec.o
+ .debug_frame   0x0000000000000000      0x144 Src/mp3dec.o
+ .ARM.attributes
+                0x0000000000000000       0x39 Src/mp3dec.o
+ .group         0x0000000000000000        0xc Src/mp3tabs.o
+ .group         0x0000000000000000        0xc Src/mp3tabs.o
+ .group         0x0000000000000000        0xc Src/mp3tabs.o
+ .group         0x0000000000000000        0xc Src/mp3tabs.o
+ .group         0x0000000000000000        0xc Src/mp3tabs.o
+ .group         0x0000000000000000        0xc Src/mp3tabs.o
+ .group         0x0000000000000000        0xc Src/mp3tabs.o
+ .group         0x0000000000000000        0xc Src/mp3tabs.o
+ .group         0x0000000000000000        0xc Src/mp3tabs.o
+ .group         0x0000000000000000        0xc Src/mp3tabs.o
+ .text          0x0000000000000000        0x0 Src/mp3tabs.o
+ .data          0x0000000000000000        0x0 Src/mp3tabs.o
+ .bss           0x0000000000000000        0x0 Src/mp3tabs.o
+ .rodata.xmp3fixpt_samplerateTab
+                0x0000000000000000       0x24 Src/mp3tabs.o
+ .rodata.xmp3fixpt_bitrateTab
+                0x0000000000000000      0x10e Src/mp3tabs.o
+ .rodata.xmp3fixpt_samplesPerFrameTab
+                0x0000000000000000       0x12 Src/mp3tabs.o
+ .rodata.xmp3fixpt_bitsPerSlotTab
+                0x0000000000000000        0x6 Src/mp3tabs.o
+ .rodata.xmp3fixpt_sideBytesTab
+                0x0000000000000000        0xc Src/mp3tabs.o
+ .rodata.xmp3fixpt_slotTab
+                0x0000000000000000      0x10e Src/mp3tabs.o
+ .rodata.xmp3fixpt_sfBandTable
+                0x0000000000000000      0x29a Src/mp3tabs.o
+ .debug_info    0x0000000000000000      0x20d Src/mp3tabs.o
+ .debug_abbrev  0x0000000000000000       0x8b Src/mp3tabs.o
+ .debug_aranges
+                0x0000000000000000       0x18 Src/mp3tabs.o
+ .debug_macro   0x0000000000000000       0x9a Src/mp3tabs.o
+ .debug_macro   0x0000000000000000      0xa5a Src/mp3tabs.o
+ .debug_macro   0x0000000000000000       0x22 Src/mp3tabs.o
+ .debug_macro   0x0000000000000000       0x8e Src/mp3tabs.o
+ .debug_macro   0x0000000000000000       0x51 Src/mp3tabs.o
+ .debug_macro   0x0000000000000000       0xef Src/mp3tabs.o
+ .debug_macro   0x0000000000000000       0x6a Src/mp3tabs.o
+ .debug_macro   0x0000000000000000      0x1df Src/mp3tabs.o
+ .debug_macro   0x0000000000000000       0x1c Src/mp3tabs.o
+ .debug_macro   0x0000000000000000       0x88 Src/mp3tabs.o
+ .debug_macro   0x0000000000000000       0x22 Src/mp3tabs.o
+ .debug_line    0x0000000000000000      0x3b9 Src/mp3tabs.o
+ .debug_str     0x0000000000000000     0x4039 Src/mp3tabs.o
+ .comment       0x0000000000000000       0x7c Src/mp3tabs.o
+ .ARM.attributes
+                0x0000000000000000       0x39 Src/mp3tabs.o
  .group         0x0000000000000000        0xc Src/sd_diskio.o
  .group         0x0000000000000000        0xc Src/sd_diskio.o
  .group         0x0000000000000000        0xc Src/sd_diskio.o
@@ -27556,6 +28217,13 @@ Discarded input sections
  .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
  .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
  .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
+ .text.memmove  0x0000000000000000       0x32 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000000000       0x28 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
  .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
  .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
  .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
@@ -27598,6 +28266,18 @@ Discarded input sections
  .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcpy.o)
  .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcpy.o)
  .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcpy.o)
+ .text          0x0000000000000000       0x10 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000000000000000       0x1b c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strstr.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strstr.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strstr.o)
+ .text.strstr   0x0000000000000000       0x34 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strstr.o)
+ .debug_frame   0x0000000000000000       0x30 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strstr.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strstr.o)
  .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wbuf.o)
  .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wbuf.o)
  .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wbuf.o)
@@ -27657,13 +28337,6 @@ Discarded input sections
  .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-makebuf.o)
  .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memchr.o)
  .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memchr.o)
- .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
- .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
- .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
- .text.memmove  0x0000000000000000       0x32 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
- .debug_frame   0x0000000000000000       0x28 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
- .ARM.attributes
-                0x0000000000000000       0x34 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
  .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
  .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
  .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.1.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.0.0.201904181610/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
@@ -27892,6 +28565,7 @@ LOAD Middlewares/Third_Party/FreeRTOS/Source/timers.o
 LOAD Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM7/r0p1/port.o
 LOAD Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
 LOAD STM32746G-Discovery/stm32746g_discovery.o
+LOAD STM32746G-Discovery/stm32746g_discovery_audio.o
 LOAD STM32746G-Discovery/stm32746g_discovery_ts.o
 LOAD Src/BoardConfiguration.o
 LOAD Src/GPIO.o
@@ -27906,6 +28580,9 @@ LOAD Src/fatfs_platform.o
 LOAD Src/ffunicode.o
 LOAD Src/freertos.o
 LOAD Src/main.o
+LOAD Src/mp3_player.o
+LOAD Src/mp3dec.o
+LOAD Src/mp3tabs.o
 LOAD Src/sd_diskio.o
 LOAD Src/stm32f7xx_hal_msp.o
 LOAD Src/stm32f7xx_hal_timebase_tim.o
@@ -34185,266 +34862,266 @@ OUTPUT(f746g-disco-test.elf elf32-littlearm)
  .debug_line    0x0000000000060e70     0x1d24 TouchGFX/gui/src/screen3_screen/Screen3Presenter.o
  .debug_line    0x0000000000062b94     0x1df1 TouchGFX/gui/src/screen3_screen/Screen3View.o
 
-.debug_str      0x0000000000000000   0x1447ea
- .debug_str     0x0000000000000000     0x5127 Components/ft5336/ft5336.o
-                                       0x530e (size before relaxing)
- .debug_str     0x0000000000005127   0x10622d Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal.o
+.debug_str      0x0000000000000000   0x1447a9
+ .debug_str     0x0000000000000000     0x5112 Components/ft5336/ft5336.o
+                                       0x52f9 (size before relaxing)
+ .debug_str     0x0000000000005112   0x106201 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal.o
                                      0x10a4db (size before relaxing)
- .debug_str     0x000000000010b354      0x54f Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_adc.o
+ .debug_str     0x000000000010b313      0x54f Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_adc.o
                                      0x10a0d9 (size before relaxing)
- .debug_str     0x000000000010b8a3      0x47a Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_cortex.o
+ .debug_str     0x000000000010b862      0x47a Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_cortex.o
                                      0x10a58f (size before relaxing)
- .debug_str     0x000000000010bd1d      0x1dc Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_crc.o
+ .debug_str     0x000000000010bcdc      0x1dc Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_crc.o
                                      0x109c6f (size before relaxing)
- .debug_str     0x000000000010bef9       0x82 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_crc_ex.o
+ .debug_str     0x000000000010beb8       0x82 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_crc_ex.o
                                      0x109c42 (size before relaxing)
- .debug_str     0x000000000010bf7b      0x38b Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dcmi.o
+ .debug_str     0x000000000010bf3a      0x38b Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dcmi.o
                                      0x10a082 (size before relaxing)
- .debug_str     0x000000000010c306      0x31d Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma.o
+ .debug_str     0x000000000010c2c5      0x31d Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma.o
                                      0x109f70 (size before relaxing)
- .debug_str     0x000000000010c623      0x4d9 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma2d.o
+ .debug_str     0x000000000010c5e2      0x4d9 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma2d.o
                                      0x10a121 (size before relaxing)
- .debug_str     0x000000000010cafc      0xb0d Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_eth.o
+ .debug_str     0x000000000010cabb      0xb0d Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_eth.o
                                      0x10a742 (size before relaxing)
- .debug_str     0x000000000010d609      0x286 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_gpio.o
+ .debug_str     0x000000000010d5c8      0x286 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_gpio.o
                                      0x109e0c (size before relaxing)
- .debug_str     0x000000000010d88f      0x742 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_hcd.o
+ .debug_str     0x000000000010d84e      0x742 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_hcd.o
                                      0x10a1e2 (size before relaxing)
- .debug_str     0x000000000010dfd1      0xed4 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_i2c.o
+ .debug_str     0x000000000010df90      0xed4 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_i2c.o
                                      0x10ad24 (size before relaxing)
- .debug_str     0x000000000010eea5       0x3b Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_i2c_ex.o
+ .debug_str     0x000000000010ee64       0x3b Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_i2c_ex.o
                                      0x109f60 (size before relaxing)
- .debug_str     0x000000000010eee0      0x622 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_ltdc.o
+ .debug_str     0x000000000010ee9f      0x622 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_ltdc.o
                                      0x10a1a4 (size before relaxing)
- .debug_str     0x000000000010f502      0x2cf Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_pwr.o
+ .debug_str     0x000000000010f4c1      0x2cf Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_pwr.o
                                      0x109eee (size before relaxing)
- .debug_str     0x000000000010f7d1      0x1b5 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
+ .debug_str     0x000000000010f790      0x1b5 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_pwr_ex.o
                                      0x109eb0 (size before relaxing)
- .debug_str     0x000000000010f986      0x844 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_qspi.o
+ .debug_str     0x000000000010f945      0x844 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_qspi.o
                                      0x10a54b (size before relaxing)
- .debug_str     0x00000000001101ca      0x353 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_rcc.o
+ .debug_str     0x0000000000110189      0x353 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_rcc.o
                                      0x109f46 (size before relaxing)
- .debug_str     0x000000000011051d      0x343 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
+ .debug_str     0x00000000001104dc      0x343 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_rcc_ex.o
                                      0x109edb (size before relaxing)
- .debug_str     0x0000000000110860      0x454 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_rtc.o
+ .debug_str     0x000000000011081f      0x454 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_rtc.o
                                      0x109f4a (size before relaxing)
- .debug_str     0x0000000000110cb4      0x5b2 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_rtc_ex.o
+ .debug_str     0x0000000000110c73      0x5b2 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_rtc_ex.o
                                      0x10a2d7 (size before relaxing)
- .debug_str     0x0000000000111266      0x5be Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_sai.o
+ .debug_str     0x0000000000111225      0x5be Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_sai.o
                                      0x10a313 (size before relaxing)
- .debug_str     0x0000000000111824      0x8f3 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_sd.o
+ .debug_str     0x00000000001117e3      0x8f3 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_sd.o
                                      0x10a6cf (size before relaxing)
- .debug_str     0x0000000000112117      0x451 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_sdram.o
+ .debug_str     0x00000000001120d6      0x451 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_sdram.o
                                      0x10a144 (size before relaxing)
- .debug_str     0x0000000000112568      0x484 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_spdifrx.o
+ .debug_str     0x0000000000112527      0x484 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_spdifrx.o
                                      0x10a1c1 (size before relaxing)
- .debug_str     0x00000000001129ec      0x688 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_spi.o
+ .debug_str     0x00000000001129ab      0x688 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_spi.o
                                      0x10a3f0 (size before relaxing)
- .debug_str     0x0000000000113074      0xeb1 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_tim.o
+ .debug_str     0x0000000000113033      0xeb1 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_tim.o
                                      0x10acc2 (size before relaxing)
- .debug_str     0x0000000000113f25      0x52c Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_tim_ex.o
+ .debug_str     0x0000000000113ee4      0x52c Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_tim_ex.o
                                      0x10a515 (size before relaxing)
- .debug_str     0x0000000000114451      0x8a5 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_uart.o
+ .debug_str     0x0000000000114410      0x8a5 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_uart.o
                                      0x10a724 (size before relaxing)
- .debug_str     0x0000000000114cf6      0x477 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_fmc.o
+ .debug_str     0x0000000000114cb5      0x477 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_fmc.o
                                      0x10a094 (size before relaxing)
- .debug_str     0x000000000011516d      0x445 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_sdmmc.o
+ .debug_str     0x000000000011512c      0x445 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_sdmmc.o
                                      0x109fcc (size before relaxing)
- .debug_str     0x00000000001155b2      0x60f Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_usb.o
+ .debug_str     0x0000000000115571      0x60f Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_ll_usb.o
                                      0x10a44a (size before relaxing)
- .debug_str     0x0000000000115bc1     0xde66 Middlewares/ST/STM32_USB_Host_Library/Class/CDC/Src/usbh_cdc.o
+ .debug_str     0x0000000000115b80     0xde66 Middlewares/ST/STM32_USB_Host_Library/Class/CDC/Src/usbh_cdc.o
                                      0x117a13 (size before relaxing)
- .debug_str     0x0000000000123a27      0x4ce Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.o
+ .debug_str     0x00000000001239e6      0x4ce Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_core.o
                                      0x1171bb (size before relaxing)
- .debug_str     0x0000000000123ef5      0x222 Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.o
+ .debug_str     0x0000000000123eb4      0x222 Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ctlreq.o
                                      0x116f3d (size before relaxing)
- .debug_str     0x0000000000124117       0xfe Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.o
+ .debug_str     0x00000000001240d6       0xfe Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_ioreq.o
                                      0x116d5c (size before relaxing)
- .debug_str     0x0000000000124215       0x97 Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.o
+ .debug_str     0x00000000001241d4       0x97 Middlewares/ST/STM32_USB_Host_Library/Core/Src/usbh_pipes.o
                                      0x116ce1 (size before relaxing)
- .debug_str     0x00000000001242ac     0x4030 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/containers/Container.o
+ .debug_str     0x000000000012426b     0x4030 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/containers/Container.o
                                        0xa379 (size before relaxing)
- .debug_str     0x00000000001282dc     0x1d8e Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/containers/ScrollableContainer.o
+ .debug_str     0x000000000012829b     0x1d8e Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/containers/ScrollableContainer.o
                                        0xbdc3 (size before relaxing)
- .debug_str     0x000000000012a06a     0x10cc Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/containers/Slider.o
+ .debug_str     0x000000000012a029     0x10cc Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/containers/Slider.o
                                        0xb2f5 (size before relaxing)
- .debug_str     0x000000000012b136     0x31be Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/containers/clock/DigitalClock.o
+ .debug_str     0x000000000012b0f5     0x31be Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/containers/clock/DigitalClock.o
                                        0xf3b2 (size before relaxing)
- .debug_str     0x000000000012e2f4      0x623 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/containers/progress_indicators/AbstractProgressIndicator.o
+ .debug_str     0x000000000012e2b3      0x623 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/containers/progress_indicators/AbstractProgressIndicator.o
                                        0xafce (size before relaxing)
- .debug_str     0x000000000012e917      0xf69 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/containers/progress_indicators/CircleProgress.o
+ .debug_str     0x000000000012e8d6      0xf69 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/containers/progress_indicators/CircleProgress.o
                                        0xb026 (size before relaxing)
- .debug_str     0x000000000012f880      0xa51 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/containers/scrollers/ScrollList.o
+ .debug_str     0x000000000012f83f      0xa51 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/containers/scrollers/ScrollList.o
                                        0xa92b (size before relaxing)
- .debug_str     0x00000000001302d1      0x203 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/AbstractButton.o
+ .debug_str     0x0000000000130290      0x203 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/AbstractButton.o
                                        0x9ff0 (size before relaxing)
- .debug_str     0x00000000001304d4      0x27a Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/Button.o
+ .debug_str     0x0000000000130493      0x27a Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/Button.o
                                        0xbfe2 (size before relaxing)
- .debug_str     0x000000000013074e      0x402 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/ButtonWithIcon.o
+ .debug_str     0x000000000013070d      0x402 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/ButtonWithIcon.o
                                        0xc3c3 (size before relaxing)
- .debug_str     0x0000000000130b50      0x117 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/Image.o
+ .debug_str     0x0000000000130b0f      0x117 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/Image.o
                                        0xbe5b (size before relaxing)
- .debug_str     0x0000000000130c67      0x2cf Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/PixelDataWidget.o
+ .debug_str     0x0000000000130c26      0x2cf Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/PixelDataWidget.o
                                        0xc00c (size before relaxing)
- .debug_str     0x0000000000130f36      0xa25 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/ScalableImage.o
+ .debug_str     0x0000000000130ef5      0xa25 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/ScalableImage.o
                                        0xc830 (size before relaxing)
- .debug_str     0x000000000013195b      0x3cb Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/TextArea.o
+ .debug_str     0x000000000013191a      0x3cb Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/TextArea.o
                                        0xc73a (size before relaxing)
- .debug_str     0x0000000000131d26       0x5f Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/TextAreaWithWildcard.o
+ .debug_str     0x0000000000131ce5       0x5f Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/TextAreaWithWildcard.o
                                        0xb1ee (size before relaxing)
- .debug_str     0x0000000000131d85      0x30e Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/TiledImage.o
+ .debug_str     0x0000000000131d44      0x30e Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/TiledImage.o
                                        0xc07d (size before relaxing)
- .debug_str     0x0000000000132093      0x22c Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/canvas/AbstractPainter.o
+ .debug_str     0x0000000000132052      0x22c Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/canvas/AbstractPainter.o
                                        0x42f5 (size before relaxing)
- .debug_str     0x00000000001322bf      0x292 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/canvas/AbstractPainterRGB565.o
+ .debug_str     0x000000000013227e      0x292 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/canvas/AbstractPainterRGB565.o
                                        0x8d13 (size before relaxing)
- .debug_str     0x0000000000132551      0x532 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/canvas/AbstractShape.o
+ .debug_str     0x0000000000132510      0x532 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/canvas/AbstractShape.o
                                        0xab0b (size before relaxing)
- .debug_str     0x0000000000132a83      0xe91 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/canvas/Canvas.o
+ .debug_str     0x0000000000132a42      0xe91 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/canvas/Canvas.o
                                        0xc66d (size before relaxing)
- .debug_str     0x0000000000133914      0x29b Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/canvas/CanvasWidget.o
+ .debug_str     0x00000000001338d3      0x29b Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/canvas/CanvasWidget.o
                                        0xa45a (size before relaxing)
- .debug_str     0x0000000000133baf      0x695 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/canvas/Circle.o
+ .debug_str     0x0000000000133b6e      0x695 Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/canvas/Circle.o
                                        0xaf85 (size before relaxing)
- .debug_str     0x0000000000134244      0x3fc Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/canvas/PainterRGB565Bitmap.o
+ .debug_str     0x0000000000134203      0x3fc Middlewares/ST/TouchGFX/touchgfx/framework/source/touchgfx/widgets/canvas/PainterRGB565Bitmap.o
                                        0xb28e (size before relaxing)
- .debug_str     0x0000000000134640      0x3d9 Middlewares/ST/TouchGFX/touchgfx/os/OSWrappers.o
+ .debug_str     0x00000000001345ff      0x3d9 Middlewares/ST/TouchGFX/touchgfx/os/OSWrappers.o
                                        0xd670 (size before relaxing)
- .debug_str     0x0000000000134a19      0x84c Middlewares/Third_Party/FatFs/src/diskio.o
+ .debug_str     0x00000000001349d8      0x84c Middlewares/Third_Party/FatFs/src/diskio.o
                                      0x114945 (size before relaxing)
- .debug_str     0x0000000000135265     0x124f Middlewares/Third_Party/FatFs/src/ff.o
+ .debug_str     0x0000000000135224     0x124f Middlewares/Third_Party/FatFs/src/ff.o
                                      0x115ce5 (size before relaxing)
- .debug_str     0x00000000001364b4       0xa2 Middlewares/Third_Party/FatFs/src/ff_gen_drv.o
+ .debug_str     0x0000000000136473       0xa2 Middlewares/Third_Party/FatFs/src/ff_gen_drv.o
                                      0x114996 (size before relaxing)
- .debug_str     0x0000000000136556       0xa5 Middlewares/Third_Party/FatFs/src/option/syscall.o
+ .debug_str     0x0000000000136515       0xa5 Middlewares/Third_Party/FatFs/src/option/syscall.o
                                      0x114882 (size before relaxing)
- .debug_str     0x00000000001365fb      0x5ba Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .debug_str     0x00000000001365ba      0x5ba Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
                                        0xd7ba (size before relaxing)
- .debug_str     0x0000000000136bb5      0x148 Middlewares/Third_Party/FreeRTOS/Source/list.o
+ .debug_str     0x0000000000136b74      0x148 Middlewares/Third_Party/FreeRTOS/Source/list.o
                                        0xa544 (size before relaxing)
- .debug_str     0x0000000000136cfd      0x771 Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .debug_str     0x0000000000136cbc      0x771 Middlewares/Third_Party/FreeRTOS/Source/queue.o
                                        0xba98 (size before relaxing)
- .debug_str     0x000000000013746e     0x1376 Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .debug_str     0x000000000013742d     0x1376 Middlewares/Third_Party/FreeRTOS/Source/tasks.o
                                        0xc83a (size before relaxing)
- .debug_str     0x00000000001387e4      0x782 Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM7/r0p1/port.o
+ .debug_str     0x00000000001387a3      0x782 Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM7/r0p1/port.o
                                        0x81bc (size before relaxing)
- .debug_str     0x0000000000138f66      0x25a Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .debug_str     0x0000000000138f25      0x25a Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
                                        0xac84 (size before relaxing)
- .debug_str     0x00000000001391c0     0x165a STM32746G-Discovery/stm32746g_discovery.o
+ .debug_str     0x000000000013917f     0x165a STM32746G-Discovery/stm32746g_discovery.o
                                      0x10bec3 (size before relaxing)
- .debug_str     0x000000000013a81a      0x3d0 STM32746G-Discovery/stm32746g_discovery_ts.o
+ .debug_str     0x000000000013a7d9      0x3d0 STM32746G-Discovery/stm32746g_discovery_ts.o
                                      0x10c9b6 (size before relaxing)
- .debug_str     0x000000000013abea     0x415e Src/BoardConfiguration.o
+ .debug_str     0x000000000013aba9     0x415e Src/BoardConfiguration.o
                                      0x11f46d (size before relaxing)
- .debug_str     0x000000000013ed48       0x10 Src/GPIO.o
+ .debug_str     0x000000000013ed07       0x10 Src/GPIO.o
                                        0x320c (size before relaxing)
- .debug_str     0x000000000013ed58      0x526 Src/HW_Init.o
+ .debug_str     0x000000000013ed17      0x526 Src/HW_Init.o
                                      0x10d593 (size before relaxing)
- .debug_str     0x000000000013f27e      0x628 Src/STM32F7DMA.o
+ .debug_str     0x000000000013f23d      0x628 Src/STM32F7DMA.o
                                      0x1115fa (size before relaxing)
- .debug_str     0x000000000013f8a6      0x310 Src/STM32F7HAL.o
+ .debug_str     0x000000000013f865      0x310 Src/STM32F7HAL.o
                                      0x111c39 (size before relaxing)
- .debug_str     0x000000000013fbb6      0x20c Src/STM32F7Instrumentation.o
+ .debug_str     0x000000000013fb75      0x20c Src/STM32F7Instrumentation.o
                                      0x11128f (size before relaxing)
- .debug_str     0x000000000013fdc2       0xa8 Src/STM32F7TouchController.o
+ .debug_str     0x000000000013fd81       0xa8 Src/STM32F7TouchController.o
                                      0x10efbd (size before relaxing)
- .debug_str     0x000000000013fe6a      0x150 Src/bsp_driver_sd.o
+ .debug_str     0x000000000013fe29      0x150 Src/bsp_driver_sd.o
                                      0x10a23d (size before relaxing)
- .debug_str     0x000000000013ffba       0x49 Src/fatfs.o
+ .debug_str     0x000000000013ff79       0x49 Src/fatfs.o
                                      0x114c56 (size before relaxing)
- .debug_str     0x0000000000140003       0x2f Src/fatfs_platform.o
+ .debug_str     0x000000000013ffc2       0x2f Src/fatfs_platform.o
                                      0x109a96 (size before relaxing)
- .debug_str     0x0000000000140032      0x140 Src/ffunicode.o
+ .debug_str     0x000000000013fff1      0x140 Src/ffunicode.o
                                      0x114817 (size before relaxing)
- .debug_str     0x0000000000140172      0x702 Src/main.o
+ .debug_str     0x0000000000140131      0x702 Src/main.o
                                      0x11a172 (size before relaxing)
- .debug_str     0x0000000000140874      0x134 Src/sd_diskio.o
+ .debug_str     0x0000000000140833      0x134 Src/sd_diskio.o
                                      0x115e8d (size before relaxing)
- .debug_str     0x00000000001409a8       0x43 Src/stm32f7xx_hal_msp.o
+ .debug_str     0x0000000000140967       0x43 Src/stm32f7xx_hal_msp.o
                                      0x10e06a (size before relaxing)
- .debug_str     0x00000000001409eb       0x3b Src/stm32f7xx_hal_timebase_tim.o
+ .debug_str     0x00000000001409aa       0x3b Src/stm32f7xx_hal_timebase_tim.o
                                      0x10a5d5 (size before relaxing)
- .debug_str     0x0000000000140a26       0xf3 Src/stm32f7xx_it.o
+ .debug_str     0x00000000001409e5       0xf3 Src/stm32f7xx_it.o
                                      0x112104 (size before relaxing)
- .debug_str     0x0000000000140b19      0xbb1 Src/syscalls.o
+ .debug_str     0x0000000000140ad8      0xbb1 Src/syscalls.o
                                        0x8882 (size before relaxing)
- .debug_str     0x00000000001416ca       0x31 Src/sysmem.o
+ .debug_str     0x0000000000141689       0x31 Src/sysmem.o
                                        0x7adb (size before relaxing)
- .debug_str     0x00000000001416fb       0x5a Src/system_stm32f7xx.o
+ .debug_str     0x00000000001416ba       0x5a Src/system_stm32f7xx.o
                                      0x109c31 (size before relaxing)
- .debug_str     0x0000000000141755       0x99 Src/usb_host.o
+ .debug_str     0x0000000000141714       0x99 Src/usb_host.o
                                      0x1173b1 (size before relaxing)
- .debug_str     0x00000000001417ee      0x168 Src/usbh_conf.o
+ .debug_str     0x00000000001417ad      0x168 Src/usbh_conf.o
                                      0x117b10 (size before relaxing)
- .debug_str     0x0000000000141956       0x27 Src/usbh_platform.o
+ .debug_str     0x0000000000141915       0x27 Src/usbh_platform.o
                                      0x109a58 (size before relaxing)
- .debug_str     0x000000000014197d       0x31 Startup/startup_stm32f746nghx.o
+ .debug_str     0x000000000014193c       0x31 Startup/startup_stm32f746nghx.o
                                          0x5d (size before relaxing)
- .debug_str     0x00000000001419ae      0x156 TouchGFX/generated/fonts/src/ApplicationFontProvider.o
+ .debug_str     0x000000000014196d      0x156 TouchGFX/generated/fonts/src/ApplicationFontProvider.o
                                        0x5117 (size before relaxing)
- .debug_str     0x0000000000141b04      0x3e3 TouchGFX/generated/fonts/src/FontGetters.o
+ .debug_str     0x0000000000141ac3      0x3e3 TouchGFX/generated/fonts/src/FontGetters.o
                                        0x5353 (size before relaxing)
- .debug_str     0x0000000000141ee7       0x39 TouchGFX/generated/fonts/src/Font_verdana_10_4bpp.o
+ .debug_str     0x0000000000141ea6       0x39 TouchGFX/generated/fonts/src/Font_verdana_10_4bpp.o
                                        0x4798 (size before relaxing)
- .debug_str     0x0000000000141f20       0x39 TouchGFX/generated/fonts/src/Font_verdana_20_4bpp.o
+ .debug_str     0x0000000000141edf       0x39 TouchGFX/generated/fonts/src/Font_verdana_20_4bpp.o
                                        0x4798 (size before relaxing)
- .debug_str     0x0000000000141f59       0x39 TouchGFX/generated/fonts/src/Font_verdana_40_4bpp.o
+ .debug_str     0x0000000000141f18       0x39 TouchGFX/generated/fonts/src/Font_verdana_40_4bpp.o
                                        0x4798 (size before relaxing)
- .debug_str     0x0000000000141f92       0x3c TouchGFX/generated/fonts/src/Kerning_verdana_10_4bpp.o
+ .debug_str     0x0000000000141f51       0x3c TouchGFX/generated/fonts/src/Kerning_verdana_10_4bpp.o
                                        0x4df1 (size before relaxing)
- .debug_str     0x0000000000141fce       0x3c TouchGFX/generated/fonts/src/Kerning_verdana_20_4bpp.o
+ .debug_str     0x0000000000141f8d       0x3c TouchGFX/generated/fonts/src/Kerning_verdana_20_4bpp.o
                                        0x4df1 (size before relaxing)
- .debug_str     0x000000000014200a       0x3c TouchGFX/generated/fonts/src/Kerning_verdana_40_4bpp.o
+ .debug_str     0x0000000000141fc9       0x3c TouchGFX/generated/fonts/src/Kerning_verdana_40_4bpp.o
                                        0x4df1 (size before relaxing)
- .debug_str     0x0000000000142046       0x3a TouchGFX/generated/fonts/src/Table_verdana_10_4bpp.o
+ .debug_str     0x0000000000142005       0x3a TouchGFX/generated/fonts/src/Table_verdana_10_4bpp.o
                                        0x4e55 (size before relaxing)
- .debug_str     0x0000000000142080       0xc7 TouchGFX/generated/fonts/src/Table_verdana_20_4bpp.o
+ .debug_str     0x000000000014203f       0xc7 TouchGFX/generated/fonts/src/Table_verdana_20_4bpp.o
                                        0x4ee2 (size before relaxing)
- .debug_str     0x0000000000142147       0x3a TouchGFX/generated/fonts/src/Table_verdana_40_4bpp.o
+ .debug_str     0x0000000000142106       0x3a TouchGFX/generated/fonts/src/Table_verdana_40_4bpp.o
                                        0x4e55 (size before relaxing)
- .debug_str     0x0000000000142181      0x941 TouchGFX/generated/gui_generated/src/common/FrontendApplicationBase.o
+ .debug_str     0x0000000000142140      0x941 TouchGFX/generated/gui_generated/src/common/FrontendApplicationBase.o
                                      0x11bf2d (size before relaxing)
- .debug_str     0x0000000000142ac2      0xfa0 TouchGFX/generated/gui_generated/src/screen3_screen/Screen3ViewBase.o
+ .debug_str     0x0000000000142a81      0xfa0 TouchGFX/generated/gui_generated/src/screen3_screen/Screen3ViewBase.o
                                        0xfc04 (size before relaxing)
- .debug_str     0x0000000000143a62      0x23f TouchGFX/generated/images/src/BitmapDatabase.o
+ .debug_str     0x0000000000143a21      0x23f TouchGFX/generated/images/src/BitmapDatabase.o
                                        0x6d1a (size before relaxing)
- .debug_str     0x0000000000143ca1       0x4b TouchGFX/generated/images/src/multimedia-music-music-note-note-icon.o
+ .debug_str     0x0000000000143c60       0x4b TouchGFX/generated/images/src/multimedia-music-music-note-note-icon.o
                                        0x3341 (size before relaxing)
- .debug_str     0x0000000000143cec       0x50 TouchGFX/generated/images/src/__designer/blue_buttons_square_icon_button.o
+ .debug_str     0x0000000000143cab       0x50 TouchGFX/generated/images/src/__designer/blue_buttons_square_icon_button.o
                                        0x3340 (size before relaxing)
- .debug_str     0x0000000000143d3c       0x58 TouchGFX/generated/images/src/__designer/blue_buttons_square_icon_button_pressed.o
+ .debug_str     0x0000000000143cfb       0x58 TouchGFX/generated/images/src/__designer/blue_buttons_square_icon_button_pressed.o
                                        0x3350 (size before relaxing)
- .debug_str     0x0000000000143d94       0x49 TouchGFX/generated/images/src/__designer/blue_icons_back_arrow_32.o
+ .debug_str     0x0000000000143d53       0x49 TouchGFX/generated/images/src/__designer/blue_icons_back_arrow_32.o
                                        0x3332 (size before relaxing)
- .debug_str     0x0000000000143ddd       0x46 TouchGFX/generated/images/src/__designer/blue_icons_go_next_32.o
+ .debug_str     0x0000000000143d9c       0x46 TouchGFX/generated/images/src/__designer/blue_icons_go_next_32.o
                                        0x332c (size before relaxing)
- .debug_str     0x0000000000143e23       0x49 TouchGFX/generated/images/src/__designer/blue_icons_next_arrow_32.o
+ .debug_str     0x0000000000143de2       0x49 TouchGFX/generated/images/src/__designer/blue_icons_next_arrow_32.o
                                        0x3332 (size before relaxing)
- .debug_str     0x0000000000143e6c       0x6f TouchGFX/generated/images/src/__designer/blue_progressindicators_bg_large_circle_indicator_bg_line_full.o
+ .debug_str     0x0000000000143e2b       0x6f TouchGFX/generated/images/src/__designer/blue_progressindicators_bg_large_circle_indicator_bg_line_full.o
                                        0x337e (size before relaxing)
- .debug_str     0x0000000000143edb       0x73 TouchGFX/generated/images/src/__designer/blue_progressindicators_fill_large_circle_indicator_fill_line_full.o
+ .debug_str     0x0000000000143e9a       0x73 TouchGFX/generated/images/src/__designer/blue_progressindicators_fill_large_circle_indicator_fill_line_full.o
                                        0x3386 (size before relaxing)
- .debug_str     0x0000000000143f4e       0x6a TouchGFX/generated/images/src/__designer/blue_slider_horizontal_medium_indicators_slider_round_nob.o
+ .debug_str     0x0000000000143f0d       0x6a TouchGFX/generated/images/src/__designer/blue_slider_horizontal_medium_indicators_slider_round_nob.o
                                        0x3374 (size before relaxing)
- .debug_str     0x0000000000143fb8       0x60 TouchGFX/generated/images/src/__designer/blue_slider_horizontal_medium_slider_round_back.o
+ .debug_str     0x0000000000143f77       0x60 TouchGFX/generated/images/src/__designer/blue_slider_horizontal_medium_slider_round_back.o
                                        0x3360 (size before relaxing)
- .debug_str     0x0000000000144018       0x60 TouchGFX/generated/images/src/__designer/blue_slider_horizontal_medium_slider_round_fill.o
+ .debug_str     0x0000000000143fd7       0x60 TouchGFX/generated/images/src/__designer/blue_slider_horizontal_medium_slider_round_fill.o
                                        0x3360 (size before relaxing)
- .debug_str     0x0000000000144078       0x4d TouchGFX/generated/images/src/__designer/blue_textures_grey_wash_wall.o
+ .debug_str     0x0000000000144037       0x4d TouchGFX/generated/images/src/__designer/blue_textures_grey_wash_wall.o
                                        0x333a (size before relaxing)
- .debug_str     0x00000000001440c5       0x5b TouchGFX/generated/texts/src/LanguageGb.o
+ .debug_str     0x0000000000144084       0x5b TouchGFX/generated/texts/src/LanguageGb.o
                                        0x4d9a (size before relaxing)
- .debug_str     0x0000000000144120      0x1dd TouchGFX/generated/texts/src/Texts.o
+ .debug_str     0x00000000001440df      0x1dd TouchGFX/generated/texts/src/Texts.o
                                        0xaf9c (size before relaxing)
- .debug_str     0x00000000001442fd       0xa4 TouchGFX/generated/texts/src/TypedTextDatabase.o
+ .debug_str     0x00000000001442bc       0xa4 TouchGFX/generated/texts/src/TypedTextDatabase.o
                                        0x6ad2 (size before relaxing)
- .debug_str     0x00000000001443a1       0x92 TouchGFX/gui/src/common/FrontendApplication.o
+ .debug_str     0x0000000000144360       0x92 TouchGFX/gui/src/common/FrontendApplication.o
                                        0xaa92 (size before relaxing)
- .debug_str     0x0000000000144433       0x32 TouchGFX/gui/src/model/Model.o
+ .debug_str     0x00000000001443f2       0x32 TouchGFX/gui/src/model/Model.o
                                        0x320a (size before relaxing)
- .debug_str     0x0000000000144465      0x1fd TouchGFX/gui/src/screen3_screen/Screen3Presenter.o
+ .debug_str     0x0000000000144424      0x1fd TouchGFX/gui/src/screen3_screen/Screen3Presenter.o
                                      0x118fc7 (size before relaxing)
- .debug_str     0x0000000000144662      0x188 TouchGFX/gui/src/screen3_screen/Screen3View.o
+ .debug_str     0x0000000000144621      0x188 TouchGFX/gui/src/screen3_screen/Screen3View.o
                                      0x11dc82 (size before relaxing)
 
 .comment        0x0000000000000000       0xfa
