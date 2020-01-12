@@ -130,7 +130,6 @@
 "Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o"
 "STM32746G-Discovery/stm32746g_discovery.o"
 "STM32746G-Discovery/stm32746g_discovery_audio.o"
-"STM32746G-Discovery/stm32746g_discovery_ts.o"
 "Src/BoardConfiguration.o"
 "Src/GPIO.o"
 "Src/HW_Init.o"

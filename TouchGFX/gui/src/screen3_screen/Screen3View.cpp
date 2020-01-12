@@ -2,6 +2,7 @@
 #include "string.h"
 #include "helix\pub\mp3dec.h"
 #include "stm32746g_discovery_audio.h"
+//Discovery audio include error
 // Represents player states (FSM)
 typedef enum Mp3_Player_State_Tag {
     PLAY,

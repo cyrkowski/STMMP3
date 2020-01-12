@@ -142,6 +142,7 @@
 							<tool id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec.625505186" name="MCU Output Converter Motorola S-rec with symbols" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec"/>
 						</toolChain>
 					</folderInfo>
+					<fileInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.375064395.1765197355" name="ft5336.h" rcbsApplicability="disable" resourcePath="Components/ft5336/ft5336.h" toolsToInvoke=""/>
 					<fileInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.375064395.446151140" name="stm32746g_discovery_qspi.h" rcbsApplicability="disable" resourcePath="STM32746G-Discovery/stm32746g_discovery_qspi.h" toolsToInvoke=""/>
 					<fileInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.375064395.882802302" name="stm32746g_discovery.h" rcbsApplicability="disable" resourcePath="STM32746G-Discovery/stm32746g_discovery.h" toolsToInvoke=""/>
 					<fileInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.375064395.668406721" name="stm32746g_discovery_audio.h" rcbsApplicability="disable" resourcePath="STM32746G-Discovery/stm32746g_discovery_audio.h" toolsToInvoke=""/>
@@ -149,6 +150,7 @@
 					<fileInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.375064395.1604215355" name="STM32746G-Discovery_BSP_User_Manual.chm" rcbsApplicability="disable" resourcePath="STM32746G-Discovery/STM32746G-Discovery_BSP_User_Manual.chm" toolsToInvoke=""/>
 					<fileInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.375064395.88629603" name="Release_Notes.html" rcbsApplicability="disable" resourcePath="STM32746G-Discovery/Release_Notes.html" toolsToInvoke=""/>
 					<fileInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.375064395.500984262" name="stm32746g_discovery_sdram.h" rcbsApplicability="disable" resourcePath="STM32746G-Discovery/stm32746g_discovery_sdram.h" toolsToInvoke=""/>
+					<fileInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.375064395.1912587752" name="stm32746g_discovery_ts.h" rcbsApplicability="disable" resourcePath="STM32746G-Discovery/stm32746g_discovery_ts.h" toolsToInvoke=""/>
 					<fileInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.375064395.501502127" name="stm32746g_discovery_camera.h" rcbsApplicability="disable" resourcePath="STM32746G-Discovery/stm32746g_discovery_camera.h" toolsToInvoke=""/>
 					<fileInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.375064395.119619791" name="stm32746g_discovery_sd.h" rcbsApplicability="disable" resourcePath="STM32746G-Discovery/stm32746g_discovery_sd.h" toolsToInvoke=""/>
 					<fileInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.375064395.2077434403" name="stm32746g_discovery_lcd.h" rcbsApplicability="disable" resourcePath="STM32746G-Discovery/stm32746g_discovery_lcd.h" toolsToInvoke=""/>
@@ -156,9 +158,10 @@
 					<fileInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.375064395.95409926" name="SDL2TouchController.hpp" rcbsApplicability="disable" resourcePath="Middlewares/ST/TouchGFX/touchgfx/framework/include/platform/driver/touch/SDL2TouchController.hpp" toolsToInvoke=""/>
 					<fileInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.375064395.260297590" name="SDLTouchController.hpp" rcbsApplicability="disable" resourcePath="Middlewares/ST/TouchGFX/touchgfx/framework/include/platform/driver/touch/SDLTouchController.hpp" toolsToInvoke=""/>
 					<sourceEntries>
+						<entry excluding="ft5336.h|ft5336.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Components/ft5336"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Drivers"/>
 						<entry excluding="ST/TouchGFX/touchgfx/framework/source/platform/hal/simulator|ST/TouchGFX/touchgfx/framework/include/platform/hal/simulator|ST/TouchGFX/touchgfx/framework/source/platform/hal/simulator/sdl2/OSWrappers.cpp|ST/TouchGFX/touchgfx/framework/source/platform/hal/simulator/sdl2/HALSDL2.cpp|ST/TouchGFX/touchgfx/framework/source/platform/hal/simulator/sdl2/HALSDL2_icon.cpp|ST/TouchGFX/touchgfx/framework/source/platform/driver/touch/SDL2TouchController.cpp|ST/TouchGFX/touchgfx/framework/include/platform/driver/touch/SDLTouchController.hpp|ST/TouchGFX/touchgfx/framework/include/platform/driver/touch/SDL2TouchController.hpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Middlewares"/>
-						<entry excluding="STM32746G-Discovery_BSP_User_Manual.chm|Release_Notes.html|stm32746g_discovery_sdram.h|stm32746g_discovery_sdram.c|stm32746g_discovery_sd.h|stm32746g_discovery_sd.c|stm32746g_discovery_qspi.h|stm32746g_discovery_qspi.c|stm32746g_discovery_lcd.h|stm32746g_discovery_lcd.c|stm32746g_discovery_eeprom.h|stm32746g_discovery_eeprom.c|stm32746g_discovery_camera.h|stm32746g_discovery_camera.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="STM32746G-Discovery"/>
+						<entry excluding="stm32746g_discovery_ts.h|stm32746g_discovery_ts.c|stm32746g_discovery_lcd.c|STM32746G-Discovery_BSP_User_Manual.chm|Release_Notes.html|stm32746g_discovery_sdram.h|stm32746g_discovery_sdram.c|stm32746g_discovery_sd.h|stm32746g_discovery_sd.c|stm32746g_discovery_qspi.h|stm32746g_discovery_qspi.c|stm32746g_discovery_lcd.h|stm32746g_discovery_eeprom.h|stm32746g_discovery_eeprom.c|stm32746g_discovery_camera.h|stm32746g_discovery_camera.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="STM32746G-Discovery"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Src"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Startup"/>
 						<entry excluding="simulator|simulator/main.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TouchGFX"/>
@@ -294,11 +297,11 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Drivers"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Middlewares"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Src"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Startup"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TouchGFX"/>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Src"/>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Middlewares"/>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Drivers"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
