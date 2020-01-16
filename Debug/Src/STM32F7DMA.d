@@ -20,7 +20,7 @@ Src/STM32F7DMA.o: ../Src/STM32F7DMA.cpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Font.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/TextProvider.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Bitmap.hpp \
- C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7DMA.hpp \
+ C:/Users/Mateusz/Desktop/STMMP3/Src/STM32F7DMA.hpp \
  ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h \
  ../Inc/stm32f7xx_hal_conf.h \
  ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_rcc.h \
@@ -116,7 +116,7 @@ Src/STM32F7DMA.o: ../Src/STM32F7DMA.cpp \
 
 ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/Bitmap.hpp:
 
-C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7DMA.hpp:
+C:/Users/Mateusz/Desktop/STMMP3/Src/STM32F7DMA.hpp:
 
 ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h:
 

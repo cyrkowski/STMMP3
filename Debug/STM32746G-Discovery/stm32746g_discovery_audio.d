@@ -2,7 +2,7 @@ STM32746G-Discovery/stm32746g_discovery_audio.o: \
  ../STM32746G-Discovery/stm32746g_discovery_audio.c \
  ../STM32746G-Discovery/stm32746g_discovery_audio.h \
  ../STM32746G-Discovery/../Components/wm8994/wm8994.h \
- ../STM32746G-Discovery/../Components/wm8994/../Common/audio.h \
+ c:\users\mateusz\desktop\stmmp3\components\common\audio.h \
  ../STM32746G-Discovery/stm32746g_discovery.h \
  ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h \
  ../Inc/stm32f7xx_hal_conf.h \
@@ -61,7 +61,7 @@ STM32746G-Discovery/stm32746g_discovery_audio.o: \
 
 ../STM32746G-Discovery/../Components/wm8994/wm8994.h:
 
-../STM32746G-Discovery/../Components/wm8994/../Common/audio.h:
+c:\users\mateusz\desktop\stmmp3\components\common\audio.h:
 
 ../STM32746G-Discovery/stm32746g_discovery.h:
 

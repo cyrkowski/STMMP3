@@ -1,9 +1,0 @@
-mp3_player.c:63:6:mp3_player_fsm	368	static
-mp3_player.c:185:6:BSP_init	8	static
-mp3_player.c:193:6:mp3_player_play	24	static
-mp3_player.c:238:5:mp3_player_process_frame	48	static
-mp3_player.c:306:6:BSP_AUDIO_OUT_TransferComplete_CallBack	8	static
-mp3_player.c:318:6:BSP_AUDIO_OUT_HalfTransfer_CallBack	8	static
-mp3_player.c:330:5:fill_input_buffer	16	static
-mp3_player.c:354:6:copy_leftover	8	static
-mp3_player.c:363:6:reset_player_state	4	static

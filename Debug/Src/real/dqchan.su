@@ -1,0 +1,4 @@
+assembly.h:323:23:MULSHIFT32	24	static,ignoring_inline_asm
+assembly.h:341:21:CLZ	24	static,ignoring_inline_asm
+dqchan.c:132:12:DequantBlock	80	static
+dqchan.c:244:5:xmp3fixpt_DequantChannel	96	static

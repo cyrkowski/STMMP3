@@ -79,7 +79,7 @@ Src/BoardConfiguration.o: ../Src/BoardConfiguration.cpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Button.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/AbstractButton.hpp \
  ../Inc/fatfs.h ../Middlewares/Third_Party/FatFs/src/ff.h \
- C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/ffunicode.c \
+ C:/Users/Mateusz/Desktop/STMMP3/Src/ffunicode.c \
  ../Middlewares/Third_Party/FatFs/src/integer.h ../Inc/ffconf.h \
  ../Inc/main.h ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h \
  ../Inc/stm32f7xx_hal_conf.h \
@@ -159,11 +159,11 @@ Src/BoardConfiguration.o: ../Src/BoardConfiguration.cpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/hal/GPIO.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/platform/driver/lcd/LCD16bpp.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/TextureMapTypes.hpp \
- C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7HAL.hpp \
- C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7DMA.hpp \
- C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7TouchController.hpp \
+ C:/Users/Mateusz/Desktop/STMMP3/Src/STM32F7HAL.hpp \
+ C:/Users/Mateusz/Desktop/STMMP3/Src/STM32F7DMA.hpp \
+ C:/Users/Mateusz/Desktop/STMMP3/Src/STM32F7TouchController.hpp \
  ../Inc/main.h \
- C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7Instrumentation.hpp \
+ C:/Users/Mateusz/Desktop/STMMP3/Src/STM32F7Instrumentation.hpp \
  ../Src/HW_Init.hpp \
  ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_rcc_ex.h
 
@@ -329,7 +329,7 @@ Src/BoardConfiguration.o: ../Src/BoardConfiguration.cpp \
 
 ../Middlewares/Third_Party/FatFs/src/ff.h:
 
-C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/ffunicode.c:
+C:/Users/Mateusz/Desktop/STMMP3/Src/ffunicode.c:
 
 ../Middlewares/Third_Party/FatFs/src/integer.h:
 
@@ -497,15 +497,15 @@ C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/ffunicode.c:
 
 ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/TextureMapTypes.hpp:
 
-C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7HAL.hpp:
+C:/Users/Mateusz/Desktop/STMMP3/Src/STM32F7HAL.hpp:
 
-C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7DMA.hpp:
+C:/Users/Mateusz/Desktop/STMMP3/Src/STM32F7DMA.hpp:
 
-C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7TouchController.hpp:
+C:/Users/Mateusz/Desktop/STMMP3/Src/STM32F7TouchController.hpp:
 
 ../Inc/main.h:
 
-C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/STM32F7Instrumentation.hpp:
+C:/Users/Mateusz/Desktop/STMMP3/Src/STM32F7Instrumentation.hpp:
 
 ../Src/HW_Init.hpp:
 

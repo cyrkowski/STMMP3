@@ -1,0 +1,5 @@
+assembly.h:384:24:MADD64	32	static,ignoring_inline_asm
+assembly.h:393:24:SAR64	32	static
+polyphase.c:59:23:ClipToShort	24	static
+polyphase.c:112:6:xmp3fixpt_PolyphaseMono	88	static
+polyphase.c:225:6:xmp3fixpt_PolyphaseStereo	104	static

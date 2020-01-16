@@ -74,7 +74,7 @@ TouchGFX/gui/src/screen3_screen/Screen3Presenter.o: \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/Button.hpp \
  ../Middlewares/ST/TouchGFX/touchgfx/framework/include/touchgfx/widgets/AbstractButton.hpp \
  ../Inc/fatfs.h ../Middlewares/Third_Party/FatFs/src/ff.h \
- C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/ffunicode.c \
+ C:/Users/Mateusz/Desktop/STMMP3/Src/ffunicode.c \
  ../Middlewares/Third_Party/FatFs/src/integer.h ../Inc/ffconf.h \
  ../Inc/main.h ../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h \
  ../Inc/stm32f7xx_hal_conf.h \
@@ -300,7 +300,7 @@ TouchGFX/gui/src/screen3_screen/Screen3Presenter.o: \
 
 ../Middlewares/Third_Party/FatFs/src/ff.h:
 
-C:/Users/Mateusz/Desktop/stm32/STMMP3/Src/ffunicode.c:
+C:/Users/Mateusz/Desktop/STMMP3/Src/ffunicode.c:
 
 ../Middlewares/Third_Party/FatFs/src/integer.h:
 

@@ -34,6 +34,7 @@ RM := rm -rf
 -include TouchGFX/build/MINGW32_NT-6.2/generated/gui_generated/src/common/subdir.mk
 -include TouchGFX/build/MINGW32_NT-6.2/generated/fonts/src/subdir.mk
 -include Startup/subdir.mk
+-include Src/real/subdir.mk
 -include Src/subdir.mk
 -include STM32746G-Discovery/subdir.mk
 -include Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/subdir.mk
@@ -53,6 +54,7 @@ RM := rm -rf
 -include Middlewares/ST/STM32_USB_Host_Library/Core/Src/subdir.mk
 -include Middlewares/ST/STM32_USB_Host_Library/Class/CDC/Src/subdir.mk
 -include Drivers/STM32F7xx_HAL_Driver/Src/subdir.mk
+-include Components/wm8994/subdir.mk
 -include Components/ft5336/subdir.mk
 -include subdir.mk
 -include objects.mk
@@ -95,8 +97,8 @@ f746g-disco-test.list \
 all: f746g-disco-test.elf secondary-outputs
 
 # Tool invocations
-f746g-disco-test.elf: $(OBJS) $(USER_OBJS) C:\Users\Mateusz\Desktop\stm32\STMMP3\STM32F746NGHX_FLASH.ld
-	arm-none-eabi-g++ -o "f746g-disco-test.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m7 -T"C:\Users\Mateusz\Desktop\stm32\STMMP3\STM32F746NGHX_FLASH.ld" --specs=nosys.specs -Wl,-Map="f746g-disco-test.map" -Wl,--gc-sections -static -L"C:\Users\Mateusz\Desktop\stm32\STMMP3\Middlewares\ST\TouchGFX\touchgfx\lib\core\cortex_m7\gcc" -L../Middlewares/ST/TouchGFX/touchgfx/lib/core/cortex_m7/gcc --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
+f746g-disco-test.elf: $(OBJS) $(USER_OBJS) C:\Users\Mateusz\Desktop\STMMP3\STM32F746NGHX_FLASH.ld
+	arm-none-eabi-g++ -o "f746g-disco-test.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m7 -T"C:\Users\Mateusz\Desktop\STMMP3\STM32F746NGHX_FLASH.ld" --specs=nosys.specs -Wl,-Map="f746g-disco-test.map" -Wl,--gc-sections -static -L"C:\Users\Mateusz\Desktop\STMMP3\Middlewares\ST\TouchGFX\touchgfx\lib\core\cortex_m7\gcc" -L../Middlewares/ST/TouchGFX/touchgfx/lib/core/cortex_m7/gcc --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

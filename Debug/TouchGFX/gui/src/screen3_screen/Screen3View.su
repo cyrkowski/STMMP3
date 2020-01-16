@@ -1,12 +1,21 @@
 Screen.hpp:140:18:virtual void touchgfx::Screen::afterTransition()	0	static
 Screen.hpp:198:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
 Screen.hpp:213:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
-Screen3View.cpp:14:6:virtual void Screen3View::tearDownScreen()	0	static
-Screen3View.cpp:19:6:virtual void Screen3View::playPrevSong()	0	static
-Screen3View.cpp:23:6:virtual void Screen3View::playNextSong()	0	static
-Screen3View.cpp:36:6:virtual void Screen3View::moveSongPosition(int)	0	static
-Screen3View.cpp:9:6:virtual void Screen3View::setupScreen()	8	static
-Screen3View.cpp:29:6:virtual void Screen3View::playPause()	16	static
-Screen3View.cpp:4:1:Screen3View::Screen3View()	8	static
+Screen3View.cpp:84:6:virtual void Screen3View::tearDownScreen()	0	static
+Screen3View.cpp:79:6:virtual void Screen3View::setupScreen()	8	static
+Screen3View.cpp:194:6:void mp3_player_fsm(const char*)	16	static
+Screen3View.cpp:93:6:virtual void Screen3View::playPrevSong()	24	static
+Screen3View.cpp:118:6:virtual void Screen3View::playNextSong()	24	static
+Screen3View.cpp:251:6:void BSP_init()	8	static
+Screen3View.cpp:74:1:Screen3View::Screen3View()	8	static
+Screen3View.cpp:437:6:void copy_leftover()	8	static
+Screen3View.cpp:412:5:int fill_input_buffer()	16	static
+Screen3View.cpp:316:5:int mp3_player_process_frame()	56	static
+Screen3View.cpp:264:6:void mp3_player_play(void*)	8	static
+Screen3View.cpp:149:6:virtual void Screen3View::playPause()	24	static
+Screen3View.cpp:384:6:void BSP_AUDIO_OUT_TransferComplete_CallBack()	8	static
+Screen3View.cpp:396:6:void BSP_AUDIO_OUT_HalfTransfer_CallBack()	8	static
+Screen3View.cpp:446:6:void reset_player_state()	0	static
+Screen3View.cpp:188:6:virtual void Screen3View::moveSongPosition(int)	8	static
 Screen3View.hpp:12:13:Screen3View::~Screen3View()	8	static
 Screen3View.hpp:12:13:virtual Screen3View::~Screen3View()	8	static
